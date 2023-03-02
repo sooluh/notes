@@ -8,7 +8,7 @@ tags: dakwah
 
 ---
 
-Sedari kecil aku tidak berada pada lingkungan yang taat pada agama, ya sewajarnya saja. Aku mengeksplorasi komputer dan isinya saat aku duduk dibangku kelas 1 SMP, dimana aku baru saja memiliki sebuah HP *second*. Dan disaat itu juga aku memilih untuk menjadi seorang programmer.
+Sedari kecil aku tidak berada pada lingkungan yang taat pada agama, ya sewajarnya saja. Aku mengeksplorasi komputer dan isinya saat aku duduk dibangku kelas 1 SMP, dimana aku baru saja memiliki sebuah HP second. Dan disaat itu juga aku memilih untuk menjadi seorang programmer.
 
 Bertahun-tahun berlalu tanpa adanya ilmu agama, hanya memperdalam ilmu dunia, pemrograman pemrograman dan pemrograman, begadang demi fix suatu bug, lalai akan waktu, meninggalkan Sholat, ah Astaghfirullahaladzim, masa lalu itu sangat memalukan, semoga Allah mengampuniku :)
 
@@ -71,5 +71,3 @@ Dan dengan demikian dapat dipahami bahwa <mark>berdakwah bukanlah sebuah profesi
 
 Wallahu a'lam bish-shawab,  
 Barakallahu fiikum.
-
-%[https://www.instagram.com/p/Col2I0KrjXv/?igshid=YmMyMTA2M2Y=]
