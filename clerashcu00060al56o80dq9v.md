@@ -69,5 +69,7 @@ Sangat jelas kalau berdakwah ini adalah kewajiban setiap muslim, tidak terpaku p
 
 Dan dengan demikian dapat dipahami bahwa <mark>berdakwah bukanlah sebuah profesi, namun apapun profesi kita, kita wajib berdakwah</mark>.
 
-Wallahu a'lam bish-shawab  
+Wallahu a'lam bish-shawab,  
 Barakallahu fiikum.
+
+%[https://www.instagram.com/p/Col2I0KrjXv/?igshid=YmMyMTA2M2Y=]
