@@ -8,9 +8,11 @@ tags: dakwah
 
 ---
 
-Sedari kecil aku tidak berada pada lingkungan yang taat pada agama, ya sewajarnya saja. Aku mengeksplorasi komputer dan isinya saat aku duduk dibangku kelas 1 SMP, dimana aku baru saja memiliki sebuah HP second. Dan disaat itu juga aku memilih untuk menjadi seorang programmer.
+Sedari kecil aku tidak berada pada lingkungan yang terlalu taat pada agama, menjadi muslim yang biasa-biasa saja. Tidak fanatik, hanya mengamalkan yang wajib-wajib (kadang masih lalai), bahkan tidak banyak ditemukan amar ma'ruf nahi munkar. Namun amalan yang tidak ada asal, bukan tuntunan Rasulullah, justru diamalkan.
 
-Bertahun-tahun berlalu tanpa adanya ilmu agama, hanya memperdalam ilmu dunia, pemrograman pemrograman dan pemrograman, begadang demi fix suatu bug, lalai akan waktu, meninggalkan Sholat, ah Astaghfirullahaladzim, masa lalu itu sangat memalukan, semoga Allah mengampuniku :)
+Aku mengeksplorasi komputer dan isinya saat aku duduk dibangku kelas 1 SMP, dimana aku baru saja memiliki sebuah HP second. Dan disaat itu juga aku memilih untuk menjadi seorang programmer.
+
+Bertahun-tahun berlalu tanpa adanya ilmu agama, hanya memperdalam ilmu dunia, pemrograman pemrograman dan pemrograman, begadang demi fix suatu bug, lalai akan waktu, meninggalkan sholat, ah Astaghfirullahaladzim, masa lalu itu sangat memalukan, semoga Allah mengampuniku :)
 
 Aku memilih berhijrah untuk menjadi lebih baik saat aku lulus dari bangku SMK, waktu itu aku masih pacaran dan dengan tegas aku memutuskan pacarku. Dan setelah itu aku benar-benar haus akan ilmu, aku selalu mencari majelis-majelis ilmu, yang ada dipikiranku kala itu adalah "aku hanya ingin ilmu agama untuk bekal aku kedepannya".
 
@@ -63,11 +65,9 @@ Nabi Shallallahu ‘alaihi wa sallam bersabda,
 
 ## Kesimpulan
 
-Mari kita coba tarik kesimpulan dari poin-poin yang telah aku sebutkan untuk pertanyaan-pertanyaan yang ditunjukkan kepada aku kala itu.
-
 Sangat jelas kalau berdakwah ini adalah kewajiban setiap muslim, tidak terpaku pada apapun profesi kita saat ini. Entah sebagai pedagang, juru masak, pilot, dokter, programmer dan yang lainnya sekalipun. Selama kita beragama Islam, sudah baligh dan berakal, mau ikhwan ataupun akhwat, berdakwah adalah kewajiban bagi kita.
 
-Dan dengan demikian dapat dipahami bahwa <mark>berdakwah bukanlah sebuah profesi, namun apapun profesi kita, kita wajib berdakwah</mark>.
+Dan dengan demikian dapat dipahami bahwa **berdakwah bukanlah sebuah profesi, namun apapun profesi kita, kita wajib berdakwah**.
 
 Wallahu a'lam bish-shawab,  
 Barakallahu fiikum.
