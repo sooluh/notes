@@ -8,7 +8,7 @@ tags: dakwah
 
 ---
 
-Sedari kecil aku tidak berada pada lingkungan yang terlalu taat pada agama, menjadi muslim yang biasa-biasa saja. Tidak fanatik, hanya mengamalkan yang wajib-wajib (kadang masih lalai), bahkan tidak banyak ditemukan amar ma'ruf nahi munkar. Namun amalan yang tidak ada asal, bukan tuntunan Rasulullah, justru diamalkan.
+Sedari kecil aku tidak berada pada lingkungan yang terlalu taat pada agama, menjadi muslim yang biasa-biasa saja. Tidak fanatik, hanya mengamalkan yang wajib-wajib, itupun terkadang masih lalai, bahkan tidak banyak ditemukan amar ma'ruf nahi munkar. Namun amalan yang tidak ada asal, bukan tuntunan Rasulullah, justru diamalkan.
 
 Aku mengeksplorasi komputer dan isinya saat aku duduk dibangku kelas 1 SMP, dimana aku baru saja memiliki sebuah HP second. Dan disaat itu juga aku memilih untuk menjadi seorang programmer.
 
@@ -24,10 +24,10 @@ Aku sudah tahu dari awal, kalau ujian berhijrah pasti akan sangat berat, terlebi
 
 Pertanyaan demi pertanyaan dilemparkan ke aku, baik yang disampaikan dengan konotasi negatif maupun yang dengan konotasi netral seperti:
 
-* Kan udah enak jadi programmer, ngapain sih dakwah-dakwah kaya gitu?
-* Kamu ngejar gelar ustadz ya?
-* Sok suci amat sih, ngoding mah ngoding aja!
-* Aku kira udah cukup jadi programmer, lah kok jadi ustadz sekarang?
+- Kan udah enak jadi programmer, ngapain sih dakwah-dakwah kaya gitu?
+- Kamu ngejar gelar ustadz ya?
+- Sok suci amat sih, ngoding mah ngoding aja!
+- Aku kira udah cukup jadi programmer, lah kok jadi ustadz sekarang?
 
 Dan yang lain sebagainya.
 
