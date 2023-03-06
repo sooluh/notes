@@ -8,13 +8,13 @@ tags: dakwah
 
 ---
 
-Mubah merupakan salah satu hukum yang Allah tetapkan terhadap suatu aktivitas dalam Islam. Hukum ini biasa disebut dengan hukum syara' atau hukum syari'at. Mubah berarti boleh dilakukan.
+Mubah merupakan salah satu hukum yang Allah tetapkan terhadap suatu aktivitas dalam Islam. Hukum ini biasa disebut dengan hukum syara' atau hukum syariat. Mubah berarti boleh dilakukan.
 
-Dalam kehidupan sehari-hari tentu banyak sekali aktivitas-aktivitas mubah yang bisa dilakukan oleh seorang muslim, termasuk ngoding yang pasti dilakukan semua programmer.
+Dalam kehidupan sehari-hari tentu banyak sekali aktivitas-aktivitas mubah yang bisa dilakukan oleh seorang muslim, termasuk aktivitas ngoding yang pasti dilakukan semua programmer.
 
 Layaknya hal-hal mubah lainnya, ngoding juga dapat menjadi makruh bahkan bisa saja sampai pada tingkatan haram. Pun sebaliknya, ngoding juga bisa menjadi sunnah bahkan bisa menjadi wajib.
 
-Lantas bagaimana supaya aktivitas ngoding kita dapat bernilai ketaatan dan dapat bernilai ibadah di sisi Allah?
+Lantas bagaimana supaya aktivitas ngoding kita dapat bernilai ketaatan dan dapat bernilai ibadah disisi Allah?
 
 ## Niatkan Karena Allah
 
@@ -22,15 +22,15 @@ Lantas bagaimana supaya aktivitas ngoding kita dapat bernilai ketaatan dan dapat
 
 "Sesungguhnya amalan itu tergantung niatnya dan seseorang akan mendapatkan sesuai dengan apa yang ia niatkan." (HR. Bukhari dan Muslim)
 
-Meninjau hadis diatas maka wajib bagi kita meniatkan segala aktivitas sebagai kebaikan, namun bukan berarti kita meniatkan sesuatu dengan kebaikan namun melakukan kegiatan yang buruk.
+Meninjau hadis diatas maka wajib bagi kita meniatkan segala aktivitas sebagai kebaikan, namun bukan berarti kita dapat meniatkan sesuatu dengan kebaikan namun melakukan kegiatan yang buruk.
 
 Sebelum memulai aktivitas ngoding, niatkan ngodingmu semata-mata untuk menggapai ridho-Nya karena kita menjalankan kewajiban untuk mencari nafkah, karena segala sesuatu itu tergantung niatnya.
 
-Lebih baik lagi jika sebelum memulai aktivitas kamu mengambil wudhu terlebih dahulu, dan jangan lupa mengucapkan Bismillah.
+Lebih baik lagi jika sebelum memulai aktivitas ini, kamu mengambil wudhu terlebih dahulu, dan jangan lupa untuk mengucapkan Bismillah.
 
 ## Tidak Melanggar Syariat
 
-Membangun website, alat, tools, dan utilitas lainnya yang mendukung kegiatan gambling/perjudian, membangun website porno, mengembangkan aplikasi yang ditujukan untuk melakukan penipuan, dan aplikasi-aplikasi buruk yang lainnya.
+Membangun website, alat, tools, atau utilitas lainnya yang mendukung kegiatan gambling/perjudian, membangun website porno, mengembangkan aplikasi yang ditujukan untuk melakukan penipuan, dan aplikasi-aplikasi buruk yang lainnya.
 
 Contoh diatas, tentu salah, dilarang dan melanggar syariat Islam, maka hal-hal demikian tidak diperkenankan dan tidak dibenarkan.
 
@@ -48,7 +48,7 @@ Makan, minum dan istirahat yang cukup pun merupakan kewajiban kita. Kita wajib m
 
 Poin terakhir, supaya aktivitas ngoding kita InsyaAllah dapat bernilai ketaatan disisi-Nya, yaitu bersyukur.
 
-Syukuri semua Ilmu pemrograman yang kamu miliki sekarang, syukuri berapapun salary/imbalan yang kamu dapat dari hasil codinganmu. Jikapun tidak ada (open-source), bukankah kita tetap mendapatkan pahala karena niatmu untuk beribadah kepada Allah?
+Syukuri semua Ilmu pemrograman yang kita miliki sekarang, syukuri berapapun salary/imbalan yang kita dapat dari hasil codingan kita. Jikapun tidak ada (open-source), bukankah kita tetap mendapatkan pahala karena niat kita untuk beribadah kepada Allah?
 
 ## Penutup
 
