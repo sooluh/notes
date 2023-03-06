@@ -2,7 +2,7 @@
 title: "Programmer Ngapain Dakwah?"
 datePublished: Fri Mar 03 2023 09:36:45 GMT+0000 (Coordinated Universal Time)
 cuid: clescctkx000y09jnfei4hw0z
-slug: programmer-ngapain-dakwah
+slug: programmer-dakwah
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677835946859/15424f26-c69d-48b5-8121-79cb5684acf3.png
 tags: dakwah
 
