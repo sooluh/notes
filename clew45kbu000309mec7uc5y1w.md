@@ -56,6 +56,6 @@ cloudflared tunnel --url http://localhost:8080 run namaaplikasi
 
 Dan tada! aplikasi dari localhost kamu sudah bisa diakses oleh siapapun yang terhubung ke internet.
 
-Pastikan sesuaikan perintah-perintah diatas, seperti `namaaplikasi`, `contoh.domain.com`, dan `http://localhost:8080` sesuai dengan keadaan aplikasi yang ingin kamu expose.
+Jangan lupa untuk menyesuaikan perintah-perintah diatas seperti `namaaplikasi`, `contoh.domain.com` dan `http://localhost:8080` sesuai dengan keadaan aplikasi yang ingin kamu expose.
 
 Terima kasih.
