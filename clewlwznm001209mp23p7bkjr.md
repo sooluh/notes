@@ -24,9 +24,9 @@ Lantas bagaimana supaya aktivitas ngoding kita dapat bernilai ketaatan dan dapat
 
 Meninjau hadis diatas maka wajib bagi kita meniatkan segala aktivitas sebagai kebaikan, namun bukan berarti kita dapat meniatkan sesuatu dengan kebaikan namun melakukan kegiatan yang buruk.
 
-Sebelum memulai aktivitas ngoding, niatkan ngodingmu semata-mata untuk menggapai ridho-Nya karena kita menjalankan kewajiban untuk mencari nafkah, karena segala sesuatu itu tergantung niatnya.
+Sebelum memulai aktivitas ngoding, niatkan ngoding kita semata-mata untuk menggapai ridho-Nya karena kita menjalankan kewajiban untuk mencari nafkah, karena segala sesuatu itu tergantung niatnya.
 
-Lebih baik lagi jika sebelum memulai aktivitas ini, kamu mengambil wudhu terlebih dahulu, dan jangan lupa untuk mengucapkan Bismillah.
+Lebih baik lagi jika sebelum memulai aktivitas ini, kita mengambil wudhu terlebih dahulu, dan jangan lupa untuk mengucapkan Bismillah.
 
 ## Tidak Melanggar Syariat
 
