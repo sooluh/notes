@@ -56,5 +56,5 @@ Jangan lupa untuk selalu meminta ampunan kepada Allah dengan cara beristighfar, 
 
 Semoga Allah selalu meridhoi segala aktivitas mubah yang kita lakukan dan menerimanya sebagai ketaatan dan ibadah disisi Allah SWT. Aamiin Allahuma Aamiin.
 
-Wallahu a'lam bish-shawab  
+Wallahu a'lam bish-shawab,  
 Barakallahu fiikum.
