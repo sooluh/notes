@@ -59,9 +59,9 @@ export default class MinifierMiddleware {
 
     // here for altering response
 
-    // retrieve the method used on the request
+    // retrieve method used on the request
     const method = request.method()
-    // retrieve the desired content on request
+    // retrieve desired content on request
     const accepts = request.accepts([]) ?? ([] as string[])
 
     // if method is not GET or except HTML or not in production, then exit
@@ -69,24 +69,26 @@ export default class MinifierMiddleware {
         return
     }
 
-    // retrieve the content in the body to respond
+    // retrieve content in body to respond
     const body = response.getBody()
 
-    // check the data type, maybe this is an object or an array
-    if (!types.isObject(body) && !types.isArray(body)) {
-        // if not, then we can minify the html output we get
-        const minified = minify(body, {
-            minifyCSS: true,
-            minifyJS: true,
-            removeComments: true,
-            preserveLineBreaks: false,
-            collapseInlineTagWhitespace: false,
-            collapseWhitespace: true,
-        })
-
-        // we set the response to be minified html
-        response.send(result)
+    // check data type, maybe this is an object or an array
+    if (types.isObject(body) || types.isArray(object)) {
+        return
     }
+
+    // if everything is safe, then we can minify html output we get
+    const minified = minify(body, {
+        minifyCSS: true,
+        minifyJS: true,
+        removeComments: true,
+        preserveLineBreaks: false,
+        collapseInlineTagWhitespace: false,
+        collapseWhitespace: true,
+    })
+
+    // set response to be minified html
+    response.send(result)
   }
 }
 ```
