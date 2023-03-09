@@ -38,7 +38,7 @@ Maka karena pembaruan yang lambat, bisa saja diaplikasi WhatsApp modifikasi yang
 
 Ini memang umum, WhatsApp modifikasi tidak mungkin menjamin adanya keamanan data, sekalipun ada secara tertulis maka itu hanya secara tertulis, tidak pada kenyataanya.
 
-End-to-end encryption, adalah salah satu sistem keamanan dalam komunikasi dimana yang bisa membaca suatu pesan hanya pengirim dan penerimanya saja. Gampangnya ini seperti satu gembok dengan dua kunci yang berbeda dipengirim dan penerima dan ajaibnya keduanya sama-sama bekerja, namun kunci diluar itu tidak akan bisa membukanya gembok tersebut.
+End-to-end encryption, adalah salah satu sistem keamanan dalam komunikasi dimana yang bisa membaca suatu pesan hanya pengirim dan penerimanya saja. Gampangnya ini seperti satu gembok dengan dua kunci yang berbeda dipengirim dan penerima dan ajaibnya keduanya sama-sama bekerja, namun kunci diluar itu tidak akan bisa membuka gembok tersebut.
 
 Tapi, apa jadinya kalau kunci tersebut bisa diambil oleh pihak yang memodifikasi WhatsApp dan menduplikasi kunci tersebut, mengambil semua gembok (pesan terenkripsi) yang ada diponsel kamu dan mendekripsi (membuka gembok tersebut) kemudian dapat membaca semua isi pesan kamu?
 
