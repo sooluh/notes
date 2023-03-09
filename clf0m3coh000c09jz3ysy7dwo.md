@@ -10,7 +10,7 @@ tags: adonisjs, middleware
 
 Let's start this AdonisJS series with a fairly light topic. **How to minify HTML output in AdonisJS**?
 
-The convenience of AdonisJS I feel is partly due to being in the Node.js environment, and there are lots of packages that make it easy for us to work.
+The convenience of AdonisJS, in my opinion, is partly due to AdonisJS being in the Node.js environment, and there are lots of packages that made it easier for us to work.
 
 For this purpose, there is already an [html-minifier](https://www.npmjs.com/package/html-minifier) package, make sure you are in your AdonisJS project directory, then type the following command to install the package.
 
