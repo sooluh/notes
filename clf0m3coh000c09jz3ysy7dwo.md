@@ -24,7 +24,7 @@ For development purposes, maybe you need `@types` for more convenience, so there
 yarn add -D @types/html-minifier
 ```
 
-The next step, we need to create a new middleware, we will use this so we don't repeat the same code in every controller. Ah, I'm sure you already understand the true function of middleware.
+In the next step, we're gonna need to create a middleware, we'll use this so that we don't have to repeat the same code in every controller. Ah, I'm sure you already understand the true function of middleware.
 
 ```bash
 node ace make:middleware Minifier
@@ -41,7 +41,7 @@ Server.middleware.register([
 ])
 ```
 
-And the last step, we mix the code that will be pasted into the Minifier middleware. We've already commented, so don't forget to understand!
+And the last step, we mix the code that will be pasted into the Minifier middleware. We've already commented on the code, so don't forget to try to understand what each line of code means and does.
 
 ```typescript
 // app/Middleware/Minifier.ts
