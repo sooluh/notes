@@ -37,7 +37,7 @@ Then we need to add it to `kernel.ts`, this is to register our middleware as glo
 
 Server.middleware.register([
   () => import('@ioc:Adonis/Core/BodyParser'),
-  () => import('App/Middleware/Minifier')
+  () => import('App/Middleware/Minifier'),
 ])
 ```
 
