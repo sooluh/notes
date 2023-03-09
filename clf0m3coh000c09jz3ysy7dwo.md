@@ -18,7 +18,7 @@ For this purpose, there is already an [html-minifier](https://www.npmjs.com/pack
 yarn add html-minifier
 ```
 
-For development purposes, maybe you need @types for more convenience, so there are suggestions and autocomplete when using this package. Run the following command, making sure the -D flag is present, indicating that this is a dev dependency.
+For development purposes, maybe you need `@types` for more convenience, so there are suggestions and autocomplete when using this package. Run the following command, making sure the -D flag is present, indicating that this is a dev dependency.
 
 ```bash
 yarn add -D @types/html-minifier
