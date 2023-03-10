@@ -54,7 +54,7 @@ Aku menukil dari teman yang sebelumnya aku singgung ("ex" pengembang aplikasi Wh
 
 Apakah kamu sering membawa ponsel ke kamar mandi? Mungkin hanya sekedar untuk buang hajat atau bahkan sambil mandi? Menurut aku ini cukup aneh dan lucu, tapi faktanya diluaran sana banyak orang yang demikian. Semua itu dapat disalahgunakan tanpa meminta izin ke kamu.
 
-Oh satu lagi, apakah kamu familiar dengan NFC? Mungkin jika ponsel kamu belum memiliki fitur tersebut tidak mengapa, bagaimana jika sudah? Semua kartu transaksi yang menempel diponsel kamu bisa diambilnya. Ah, mungkin ini sudah ditangani oleh pihak Bank.
+Oh satu lagi, apakah kamu familiar dengan NFC? Mungkin jika ponsel kamu belum memiliki fitur tersebut tidak mengapa, bagaimana jika sudah? Semua kartu transaksi yang menempel diponsel kamu bisa diambilnya. Oh, mungkin kerentanan ini sudah ditangani oleh pihak Bank.
 
 Bagaimana dengan akses SMS? Kamu memiliki m-Banking? Nomor telepon yang digunakan apakah sama dengan nomor WhatsApp yang terdaftar? Atau, nomor yang digunakan ada dikontak ponsel kamu?
 
