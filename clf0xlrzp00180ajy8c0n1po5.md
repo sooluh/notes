@@ -18,7 +18,7 @@ Beliau membicarakan beberapa poin yang mana akan aku ringkas dalam tulisan kali 
 
 ## Akun Diblokir Pihak Meta
 
-Aku mulai dengan poin yang mungkin akan kalian sepelekan, memang awalnya Meta akan memblokir akun WhatsApp kamu dalam waktu hanya hitungan menit, namun jika dilanjutkan tetap menggunakan WhatsApp modifikasi, waktu blokir itu akan terus bertambah.
+Aku mulai dengan poin yang mungkin akan kalian sepelekan, memang awalnya Meta akan memblokir akun WhatsApp kamu dalam waktu hanya hitungan menit, namun jika tetap dilanjutkan menggunakan WhatsApp modifikasi, waktu blokir itu akan terus bertambah.
 
 Beberapa tahun lalu, saat WhatsApp modifikasi ini muncul pertama kali dan WhatsApp pun baru menerapkan sistem pemblokiran, salah satu teman aku pernah sampai 1 tahun diblokir. Mau seperti demikian?
 
