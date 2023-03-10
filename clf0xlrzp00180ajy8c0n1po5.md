@@ -26,7 +26,7 @@ Beberapa tahun lalu, saat WhatsApp modifikasi ini muncul pertama kali dan WhatsA
 
 Ini memang bukan hal yang cukup bahaya, setidaknya menurut kamu yang mungkin tidak mengerti apa yang sebenarnya terjadi disuatu pembaruan. Memang, pembaruan yang orang awam lihat adalah penambahan fitur atau penyesuaian tampilan, namun tidak dengan pengembang.
 
-Pengembang resmi melakukan pembaharuan selain dari segi fitur diantaranya karena adanya bug yang kemudian sudah diperbaiki. Kemudian, adanya vulnerability pada dependensi yang digunakan juga bisa menjadi salah satu alasan adanya pembaruan.
+Pengembang resmi melakukan pembaharuan selain dari segi fitur diantaranya karena adanya bug yang sudah diperbaiki. Kemudian, adanya vulnerability pada dependensi yang digunakan juga bisa menjadi salah satu alasan adanya pembaruan.
 
 Baik aku coba jelaskan secara umum dan InsyaAllah mudah dipahami. Vulnerability secara bahasa artinya kerentanan atau celah keamanan, ini memungkinkan suatu sistem dapat diakses tanpa izin. Vulnerability ini dapat terjadi karena kesalahan pengkodean pihak internal pengembang maupun dari pengkodean yang ada didependensi.
 
