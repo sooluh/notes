@@ -46,17 +46,17 @@ Ah ini bukan apa-apa, tidak ada yang spesial antara percakapan aku dengan teman-
 
 ## Ngomongin Privasi
 
-Sebetulnya poin diatas ini adalah bagian dari privasi, percakapan kita adalah privasi. Tapi mari kita bedah lagi, aku akan memberikan beberapa pertanyaan, bukankah saat pertama kali memasang WhatsApp aplikasi membutuhkan akses kontak? Membutuhkan akses berkas? Membutuhkan akses SMS? Lokasi? Kamera? Microphone?
+Sebetulnya poin diatas ini adalah bagian dari privasi, percakapan kita adalah privasi. Tapi mari kita bedah lagi, aku akan memberikan beberapa pertanyaan, bukankah saat pertama kali memasang WhatsApp aplikasi membutuhkan akses kontak? membutuhkan akses berkas? membutuhkan akses SMS? lokasi? kamera? microphone?
 
 Tentu iya! aku tambahkan lagi, WhatsApp juga mengakses detail jaringan yang sedang dan atau sebelum-sebelumnya dipakai, pun mengakses bluetooth, NFC, dan fingerprint. Memang apa bahanya?
 
 Aku menukil dari teman yang sebelumnya aku singgung ("ex" pengembang aplikasi WhatsApp modifikasi) beliau mengatakan bahwa data itu semua disimpan ke server/peladen milik pemilik WhatsApp modifikasi itu.
 
-Apakah kamu sering membawa ponsel ke kamar mandi? Mungkin hanya sekedar untuk buang hajat atau bahkan sambil mandi? Menurut aku ini cukup aneh dan lucu, tapi faktanya diluaran sana banyak orang yang demikian. Semua itu dapat disalahgunakan tanpa meminta izin ke kamu.
+Apakah kamu sering membawa ponsel ke kamar mandi? mungkin hanya sekedar untuk buang hajat atau bahkan sambil mandi? menurut aku ini cukup aneh dan lucu, tapi faktanya diluaran sana banyak orang yang demikian. Semua itu dapat disalahgunakan tanpa meminta izin ke kamu.
 
-Oh satu lagi, apakah kamu familiar dengan NFC? Mungkin jika ponsel kamu belum memiliki fitur tersebut tidak mengapa, bagaimana jika sudah? Semua kartu transaksi yang menempel diponsel kamu bisa diambilnya. Oh, mungkin kerentanan ini sudah ditangani oleh pihak Bank.
+Oh satu lagi, apakah kamu familiar dengan NFC? mungkin jika ponsel kamu belum memiliki fitur tersebut tidak mengapa, bagaimana jika sudah? semua kartu transaksi yang menempel diponsel kamu bisa diambilnya. Oh, mungkin kerentanan ini sudah ditangani oleh pihak Bank.
 
-Bagaimana dengan akses SMS? Kamu memiliki m-Banking? Nomor telepon yang digunakan apakah sama dengan nomor WhatsApp yang terdaftar? Atau, nomor yang digunakan ada dikontak ponsel kamu?
+Bagaimana dengan akses SMS? kamu memiliki m-Banking? nomor telepon yang digunakan apakah sama dengan nomor WhatsApp yang terdaftar? atau, nomor yang digunakan ada dikontak ponsel kamu?
 
 Mudah sekali untuk masuk ke akun m-Banking kamu dan mendapatkan kode dari SMS yang masuk, kemudian mereka menghapus SMS tersebut, supaya kamu tidak mencurigai sesuatu.
 
@@ -80,12 +80,12 @@ Memasang WhatsApp modifikasi ini jelas melanggar ketentuan fatwa tersebut karena
 
 Mungkin kamu masih mau menyangkalnya, mudah saja, WhatsApp milik Meta secara resmi adalah sebuah perusahaan, walaupun mereka tidak menerima uang dari kita sebagai pengguna, namun mereka memiliki strategi bisnis dibalik itu.
 
-Sekarang mari kita tinjau untuk pengembang WhatsApp modifikasi, apa yang mereka dapat dari memodifikasi WhatsApp? Apakah kamu sebagai pengguna memberikan uang ke mereka?
+Sekarang mari kita tinjau untuk pengembang WhatsApp modifikasi, apa yang mereka dapat dari memodifikasi WhatsApp? apakah kamu sebagai pengguna memberikan uang ke mereka?
 
 Ah ada banyak iklan di halaman unduhannya, akupun menyanggah demikian saat diberitahu oleh teman aku, tapi, itu hanya untuk mengelabuhi, tidak banyak yang didapat dari iklan yang ditampilkan dihalaman unduhan.
 
-Jadi? dari mana mereka mendapatkan uang? Bahkan mereka berani membayar pengembang dari luar untuk mengembangkannya? Tentu dari data yang mereka jual, darimana datanya? Dari kita penggunanya.
+Jadi? dari mana mereka mendapatkan uang? bahkan mereka berani membayar pengembang dari luar untuk mengembangkannya? tentu dari data yang mereka jual, darimana datanya? dari kita penggunanya.
 
-Masih kurang ya? Aku saranin kamu coba nonton film Unlocked (2023) di Netflix, bagaimana kalau mereka pihak WhatsApp modifikasi adalah seorang psikopat yang memantau kita sebagai penggunanya untuk mengetahui semua aktivitas kita dan pada waktu yang tepat mereka membunuh kita, Naudzubillah.
+Masih kurang ya? aku saranin kamu coba nonton film Unlocked (2023) di Netflix, bagaimana kalau mereka pihak WhatsApp modifikasi adalah seorang psikopat yang memantau kita sebagai penggunanya untuk mengetahui semua aktivitas kita dan pada waktu yang tepat mereka membunuh kita, Naudzubillah.
 
 Semoga mudah dipahami dan semoga kita semua selalu mendapatkan hidayah dari-Nya, segera jemput itu.
