@@ -46,7 +46,7 @@ Ah ini bukan apa-apa, tidak ada yang spesial antara percakapan aku dengan teman-
 
 ## Ngomongin Privasi
 
-Sebetulnya poin diatas ini adalah bagian dari privasi, percakapan kita adalah privasi. Tapi mari kita bedah lagi, aku akan memberikan beberapa pertanyaan, bukankah saat pertama kali memasang WhatsApp (baik modifikasi maupun orisinil) aplikasi membutuhkan akses kontak? Membutuhkan akses berkas? Membutuhkan akses SMS? Lokasi? Kamera? Microphone?
+Sebetulnya poin diatas ini adalah bagian dari privasi, percakapan kita adalah privasi. Tapi mari kita bedah lagi, aku akan memberikan beberapa pertanyaan, bukankah saat pertama kali memasang WhatsApp aplikasi membutuhkan akses kontak? Membutuhkan akses berkas? Membutuhkan akses SMS? Lokasi? Kamera? Microphone?
 
 Tentu iya! aku tambahkan lagi, WhatsApp juga mengakses detail jaringan yang sedang dan atau sebelum-sebelumnya dipakai, pun mengakses bluetooth, NFC, dan fingerprint. Memang apa bahanya?
 
