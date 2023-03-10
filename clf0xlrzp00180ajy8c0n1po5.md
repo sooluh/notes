@@ -86,4 +86,6 @@ Ah ada banyak iklan di halaman unduhannya, akupun menyanggah demikian saat diber
 
 Jadi? dari mana mereka mendapatkan uang? Bahkan mereka berani membayar pengembang dari luar untuk mengembangkannya? Tentu dari data yang mereka jual, darimana datanya? Dari kita penggunanya.
 
-Semoga mudah dipahami, dan semoga kita semua selalu mendapatkan hidayah dari-Nya, segera jemput itu.
+Masih kurang ya? Aku saranin kamu coba nonton film Unlocked (2023) di Netflix, bagaimana kalau mereka pihak WhatsApp modifikasi adalah seorang psikopat yang memantau kita sebagai penggunanya untuk mengetahui semua aktivitas kita dan pada waktu yang tepat mereka membunuh kita, Naudzubillah.
+
+Semoga mudah dipahami dan semoga kita semua selalu mendapatkan hidayah dari-Nya, segera jemput itu.
