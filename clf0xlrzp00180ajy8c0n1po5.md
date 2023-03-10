@@ -36,7 +36,7 @@ Maka karena pembaruan yang lambat, bisa saja diaplikasi WhatsApp modifikasi yang
 
 ## Selamat Tinggal Keamanan
 
-Ini memang umum, WhatsApp modifikasi tidak mungkin menjamin adanya keamanan data, sekalipun ada secara tertulis maka itu hanya secara tertulis, tidak pada kenyataanya.
+Ini memang sesuatu yang umum, WhatsApp modifikasi tidak mungkin menjamin adanya keamanan data, sekalipun ada secara tertulis maka itu hanya secara tertulis, tidak pada kenyataanya.
 
 End-to-end encryption, adalah salah satu sistem keamanan dalam komunikasi dimana yang bisa membaca suatu pesan hanya pengirim dan penerimanya saja. Gampangnya ini seperti satu gembok dengan dua kunci yang berbeda dipengirim dan penerima dan ajaibnya keduanya sama-sama bekerja, namun kunci diluar itu tidak akan bisa membuka gembok tersebut.
 
