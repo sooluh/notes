@@ -100,11 +100,11 @@ Orang yang tengah berpergian atau safar juga di atur disini. Tentu jika safar di
 
 Jika berpergian bukan bermaksud seperti demikian, maka setidaknya ada 3 keadaan, yaitu:
 
-* Apabila safar sangat memberatkannya, maka hukumnya haram.
+* Apabila safar sangat memberatkannya, maka hukumnya (puasanya) haram.
     
 * Apabila safar memberatkannya, tetapi tidak "sangat", maka hukumnya makruh.
     
-* Apabila safar tidak memberatka sama sekali, maka pilihlah yang paling ringan baginya. Dan yang paling afdhol adalah tetap berpuasa.
+* Apabila safar tidak memberatkan sama sekali, maka pilihlah yang paling ringan baginya. Dan yang paling afdhol adalah tetap berpuasa.
     
 
 ## Penuh Satu Bulan & Berdzikir
