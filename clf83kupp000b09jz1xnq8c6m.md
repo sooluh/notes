@@ -65,7 +65,7 @@ Pun dalam bulan ramadhan terdapat anjuran untuk menjadikan bulan ini sebagai pen
 
 Dalam ayat 184, menunjukkan hukum puasa **pertama kali** bagi orang yang sakit dan safar, maka boleh tidak berpuasa, dan bagi yang memukim boleh berpuasa atau membayar fidyah.
 
-Selanjutnya, Kewajiban berpuasa ini ditetapkan pada tahun ke-2 hijriah. Dan kewajiban puasa diperuntukkan untuk yang beragama Islam, sudah baligh, dan berakal.
+Selanjutnya, kewajiban berpuasa ini ditetapkan pada tahun ke-2 hijriah. Dan kewajiban puasa diperuntukkan untuk yang beragama Islam, sudah baligh, dan berakal.
 
 ## Al-Qur'an
 
