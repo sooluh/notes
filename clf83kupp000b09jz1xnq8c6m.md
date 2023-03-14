@@ -63,7 +63,7 @@ Pun dalam bulan ramadhan terdapat anjuran untuk menjadikan bulan ini sebagai pen
 
 ## Hukum Puasa Pertama Kali
 
-Dalam ayat 184, menunjukkan hukum puasa bagi **pertama kali** orang yang sakit dan safar, maka boleh tidak berpuasa, dan bagi yang memukim boleh berpuasa atau membayar fidyah.
+Dalam ayat 184, menunjukkan hukum puasa **pertama kali** bagi orang yang sakit dan safar, maka boleh tidak berpuasa, dan bagi yang memukim boleh berpuasa atau membayar fidyah.
 
 Kewajiban berpuasa ini ditetapkan pada tahun ke-2 hijriah. Dan selanjutnya, kewajiban puasa diperuntukkan untuk yang beragama Islam, sudah baligh, dan berakal.
 
