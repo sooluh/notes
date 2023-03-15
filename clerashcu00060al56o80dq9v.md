@@ -4,7 +4,7 @@ datePublished: Thu Mar 02 2023 16:05:10 GMT+0000 (Coordinated Universal Time)
 cuid: clerashcu00060al56o80dq9v
 slug: programmer-dakwah
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677810051216/789e8123-86cc-4709-bbf5-4ce1f184428b.png
-tags: dakwah
+tags: profesi, refleksi, dakwah
 
 ---
 
