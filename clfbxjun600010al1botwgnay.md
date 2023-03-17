@@ -94,6 +94,6 @@ function parser(template, params) {
 
 I don't understand why it has to be like that, I'm still looking for an explanation, but I can't find it (maybe I'm just not observant or even lazy to search haha).
 
-Finally, before I close, maybe you want to try it, you can run the pen in my codepen, [let's see](https://codepen.io/sooluh/pen/PodexKQ) (see consoles).
+Finally, before I close, maybe you want to try it, you can run the pen in my CodePen, [let's see](https://codepen.io/sooluh/pen/PodexKQ) (see console).
 
 Maybe that's all I can share, nothing more, because I'm just an ordinary human being who has lots of flaws, and perfection belongs only to Allah. Hopefully something useful, once again that's all and thanks.
