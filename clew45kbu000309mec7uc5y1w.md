@@ -36,13 +36,15 @@ Kemudian kita harus login terlebih dahulu menggunakan `cloudflared` tersebut den
 cloudflared tunnel login
 ```
 
+Setelah masuk ke akun, kamu diharuskan memilih domain untuk dijadikan alamat tunelling, kemudian klik tombol Authorize untuk mengotorisasi.
+
 Sekarang, mari kita coba untuk membuat tunnel pertama dengan menjalankan perintah seperti dibawah ini.
 
 ```bash
 cloudflared tunnel create namaaplikasi
 ```
 
-Selanjutnya tinggal buat entry subdomain custom baru dengan perintah dibawah ini. Kemungkinan akan muncul jendera browser baru untuk kamu mengizinkan domain tersebut supaya dapat dijadikan tunnel.
+Selanjutnya tinggal buat entry subdomain custom baru dengan perintah dibawah ini.
 
 ```bash
 cloudflared tunnel route dns namaaplikasi contoh.domain.com
