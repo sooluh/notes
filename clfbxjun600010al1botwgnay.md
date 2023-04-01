@@ -43,7 +43,7 @@ console.log(parser('My name is { name }!', 'John Doe'))
 // My name is John Doe!
 ```
 
-And of course, it only works for one placeholder; what if the `name` keyword is multiple? Does it still work? of course not, so I added the `gi` regex flag. `g` means globally, and `i` means insensitive.
+And of course, it only works for one placeholder; what if the `name` keyword is multiple? Does it still work? of course not, so I added the `gi` regex flag. `g` means globally, and `i` mean insensitive.
 
 ```javascript
 function parser(template, name) {
@@ -78,7 +78,7 @@ function parser(template, params) {
 }
 ```
 
-Something's wrong; it's not working; is there something wrong? maybe because of my too many sins? Astaghfirullahaladzim.
+It's not working, is there something wrong? maybe because of my too many sins? Astaghfirullahaladzim.
 
 It turns out that because objects of class RegExp don't work that way, we should add another backslash before the backslash. Hah? I mean, on each backslash, we need to duplicate it, like the following.
 
