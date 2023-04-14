@@ -10,7 +10,7 @@ tags: javascript, regex
 
 Some time ago, I was fascinated by the [intl-messageformat](https://formatjs.io/docs/intl-messageformat) package, and I always use it whenever a message format is needed.
 
-The features are quite complete; I'm overwhelmed by them, but it turns out I only need the placeholder part; the other features are just the cherry on top, so I decided to make my placeholder.
+The features are quite complete; I'm overwhelmed by it, but it turns out I only need the placeholder part; the other features are just the cherry on top, so I decided to make my placeholder.
 
 The first thing that came to mind was [regex](https://en.wikipedia.org/wiki/Regular_expression), so I went straight to regex101 to do a little experimentation and test some of the strings normally used to create the placeholders.
 
