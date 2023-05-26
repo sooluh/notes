@@ -3,7 +3,6 @@ title: "Dinilai Sebagai Ketaatan Saat Bertemu Error"
 datePublished: Sat Apr 01 2023 23:47:53 GMT+0000 (Coordinated Universal Time)
 cuid: clfymj36v00010alc6o1a4a77
 slug: error
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685071467810/e7658f45-7e92-4a75-8d9a-14d6f1d01e3c.jpeg
 tags: refleksi, dakwah
 
 ---
