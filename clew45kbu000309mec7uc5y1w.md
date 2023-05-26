@@ -3,7 +3,7 @@ title: "Cloudflare Tunnel untuk Mengexpose Localhost"
 datePublished: Mon Mar 06 2023 00:58:14 GMT+0000 (Coordinated Universal Time)
 cuid: clew45kbu000309mec7uc5y1w
 slug: cloudflared
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677809655127/175f89dc-5eaf-4e0b-a691-34652823abcc.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685069967609/e3882338-9ea7-460c-9d8a-901eaba79ece.png
 tags: cloudflare, tunnel, cloudflared
 
 ---
