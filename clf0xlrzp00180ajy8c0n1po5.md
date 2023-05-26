@@ -3,7 +3,7 @@ title: "Bukan Sekedar WhatsApp Mod"
 datePublished: Thu Mar 09 2023 09:53:44 GMT+0000 (Coordinated Universal Time)
 cuid: clf0xlrzp00180ajy8c0n1po5
 slug: whatsapp-mod
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678072975716/fd265889-3a31-46db-9be8-97dadc32f5f4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685070084148/bc8ff005-ae72-4fea-8a3c-cc12f346df52.png
 tags: whatsapp, dakwah, ilegal
 
 ---
