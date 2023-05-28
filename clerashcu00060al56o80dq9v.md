@@ -45,7 +45,7 @@ Dakwah adalah kewajiban semua orang yang mengaku bahwa dirinya adalah seorang mu
 
 > "Kamu adalah umat yang terbaik yang dilahirkan untuk manusia, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar, dan beriman kepada Allah." (TQS. Ali 'Imran ayat 110)
 
-Pun Rasulullah Shallallahu 'alaihi wa sallam pernah bersabda,
+Pun Rasulullah *shallallahu 'alaihi wa sallam* pernah bersabda,
 
 > "Demi Rabb yang jiwaku berada di tangan-Nya, hendaklah kalian bersungguh-sungguh menyuruh berbuat kebaikan dan mencegah kemungkaran, atau Allah akan menimpakan siksaan kepada kalian dari sisi-Nya, kemudian kalian berdo’a kepada-Nya tetapi Dia tidak mengabulkan do'a kalian." (HR. Tirmidzi)
 
