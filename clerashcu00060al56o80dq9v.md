@@ -24,10 +24,14 @@ Aku sudah tahu dari awal, kalau ujian berhijrah pasti akan sangat berat, terlebi
 
 Pertanyaan demi pertanyaan dilemparkan ke aku, baik yang disampaikan dengan konotasi negatif maupun yang dengan konotasi netral seperti:
 
-- Kan udah enak jadi programmer, ngapain sih dakwah-dakwah kaya gitu?
-- Kamu ngejar gelar ustadz ya?
-- Sok suci amat sih, ngoding mah ngoding aja!
-- Aku kira udah cukup jadi programmer, lah kok jadi ustadz sekarang?
+* Kan udah enak jadi programmer, ngapain sih dakwah-dakwah kaya gitu?
+    
+* Kamu ngejar gelar ustadz ya?
+    
+* Sok suci amat sih, ngoding mah ngoding aja!
+    
+* Aku kira udah cukup jadi programmer, lah kok jadi ustadz sekarang?
+    
 
 Dan yang lain sebagainya.
 
@@ -37,19 +41,19 @@ Kalau ditanya capek apa engga, tentu semua orang pasti capek, lagi pula ini hany
 
 Di beberapa paragraf di atas, aku sempat menyinggung kalau dakwah ini kewajiban seorang muslim. Ya itu benar! Saat ini, kebanyakan orang menganggap dakwah ini hanya tugas seorang da'i, mereka menganggap kalau dakwah adalah sebuah profesi, padahal pandangan itu salah.
 
-Dakwah adalah kewajiban semua orang yang mengaku bahwa dirinya adalah seorang muslim, ini disampaikan secara jelas oleh Allah SWT pada firmannya dalam surat Ali 'Imran ayat 110,
+Dakwah adalah kewajiban semua orang yang mengaku bahwa dirinya adalah seorang muslim, ini disampaikan secara jelas oleh Allah SWT pada firmannya dalam QS. Ali 'Imran ayat 110,
 
-"Kamu adalah umat yang terbaik yang dilahirkan untuk manusia, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar, dan beriman kepada Allah." (Ali 'Imran ayat 110)
+> "Kamu adalah umat yang terbaik yang dilahirkan untuk manusia, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar, dan beriman kepada Allah." (TQS. Ali 'Imran ayat 110)
 
 Pun Rasulullah Shallallahu ‘alaihi wa sallam pernah bersabda,
 
-"Demi Rabb yang jiwaku berada di tangan-Nya, hendaklah kalian bersungguh-sungguh menyuruh berbuat kebaikan dan mencegah kemungkaran, atau Allah akan menimpakan siksaan kepada kalian dari sisi-Nya, kemudian kalian berdo’a kepada-Nya tetapi Dia tidak mengabulkan do’a kalian." (HR. Tirmidzi)
+> "Demi Rabb yang jiwaku berada di tangan-Nya, hendaklah kalian bersungguh-sungguh menyuruh berbuat kebaikan dan mencegah kemungkaran, atau Allah akan menimpakan siksaan kepada kalian dari sisi-Nya, kemudian kalian berdo’a kepada-Nya tetapi Dia tidak mengabulkan do'a kalian." (HR. Tirmidzi)
 
 ## Diam Adalah Syaiton Akhros
 
 Apa itu syaiton akhros? Syaiton akhros adalah syaiton bisu, ini adalah syaiton dari golongan manusia, yang paham kalau diantara mereka ada kemungkaran, tapi dia memilih diam. Ibnu Qayyim Rahimahullah berkata,
 
-"Tidaklah kalian dengar ucapan seorang pemberi nasehat ‘Orang yang berbicara dengan kebatilan adalah setan yang pandai bicara, sedangkan orang yang diam dari kebenaran adalah setan yang bisu." (Ad-Da'u wad Dawa')
+> "Tidaklah kalian dengar ucapan seorang pemberi nasehat 'Orang yang berbicara dengan kebatilan adalah setan yang pandai bicara, sedangkan orang yang diam dari kebenaran adalah setan yang bisu." (Ad-Da'u wad Dawa')
 
 ## Lebih Baik Dari Unta Merah
 
@@ -57,7 +61,7 @@ Aku sebelumnya tidak tahu apa itu unta merah, beberapa referensi memberitahu aku
 
 Nabi Shallallahu ‘alaihi wa sallam bersabda,
 
-"Demi Allah, sungguh satu orang saja diberi petunjuk (oleh Allah) melalui perantaraanmu, maka itu lebih baik dari unta merah." (HR. Bukhari dan Muslim)
+> "Demi Allah, sungguh satu orang saja diberi petunjuk (oleh Allah) melalui perantaraanmu, maka itu lebih baik dari unta merah." (HR. Bukhari dan Muslim)
 
 ## Kesimpulan
 
