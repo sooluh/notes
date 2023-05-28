@@ -95,13 +95,11 @@ Dan itulah yang terjadi pada Umar bin Khattab ketika dahulu kafir (belum masuk I
 
 Kata Umar bin Khattab: "Tidak ada satupun tempat dimana aku dahulu melakukan kemaksiatan, aku menggantinya dengan ketaatan."
 
-**📝 Catatan:**
+**📝 Catatan & Nasihat:**
 
 > Jangan salah artikan artikel ini dengan menganggap bahwa pacaran sampai menikah itu dibenarkan, "yang penting setelah menikah menjalankan syariat", **BUKAN BEGITU**.
-
-**💡 Nasihat untuk yang masih pacaran:**
-
-> Untuk kamu yang masih pacaran, kamu sudah tau hukumnya, silahkan putuskan! dan carilah ilmu agama, dekatkan diri kepada Allah SWT. Sesungguhnya tulisan ini untuk yang sudah "terlanjur" menikah melalui jalur pacaran.
+> 
+> Untuk kamu yang masih pacaran, kamu sudah tau hukumnya, silahkan putuskan! dan carilah ilmu agama, dekatkan diri kepada Allah SWT. Sungguh tulisan ini aku tujukan untuk yang sudah "terlanjur" menikah melalui jalur pacaran.
 
 Wallahu a'lam bish-shawab,  
 Barakallahu fiikum.
