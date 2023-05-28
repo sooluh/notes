@@ -59,7 +59,7 @@ Apa itu syaiton akhros? Syaiton akhros adalah syaiton bisu, ini adalah syaiton d
 
 Aku sebelumnya tidak tahu apa itu unta merah, beberapa referensi memberitahu aku bahwa unta merah adalah unta yang paling istimewa di kalangan orang Arab kala itu (zaman Rasulullah). Beberapa referensi juga memberitahu aku bahwa harga daripada unta merah ini setara dengan satu unit mobil Pajero.
 
-Nabi Shallallahu ‘alaihi wa sallam bersabda,
+Nabi *shallallahu 'alaihi wa sallam* bersabda,
 
 > "Demi Allah, sungguh satu orang saja diberi petunjuk (oleh Allah) melalui perantaraanmu, maka itu lebih baik dari unta merah." (HR. Bukhari dan Muslim)
 
