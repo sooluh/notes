@@ -4,7 +4,7 @@ datePublished: Mon Mar 06 2023 09:15:27 GMT+0000 (Coordinated Universal Time)
 cuid: clewlwznm001209mp23p7bkjr
 slug: ngoding-itu-ibadah
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685069994178/8f3aa3e3-b729-479c-8faa-13911f1ceccb.png
-tags: refleksi, dakwah
+tags: profesi, refleksi, dakwah
 
 ---
 
