@@ -21,7 +21,7 @@ Tentu, hukum pacaran adalah haram dan pacaran adalah perbuatan yang tergolong me
 
 وَلَا تَقْرَبُوا الزِّنٰىٓ اِنَّهٗ كَانَ فَاحِشَةً ۗوَسَاۤءَ سَبِيْلًا
 
-"Dan janganlah kamu mendekati zina; (zina) itu sungguh suatu perbuatan keji, dan suatu jalan yang buruk."
+> "Dan janganlah kamu mendekati zina; (zina) itu sungguh suatu perbuatan keji, dan suatu jalan yang buruk." (TQS. Al-Isra' ayat 32)
 
 Lantas, bila ada sepasang kekasih yang sebelum menikah mereka berpacaran terlebih dahulu, melakukan aktifitas chattingan, pegangan tangan, gandengan, pelukan dan seterusnya, tentu itu semua adalah aktifitas-aktifitas yang haram dan memiliki konsekuensi dosa.
 
