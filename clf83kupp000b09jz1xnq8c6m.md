@@ -12,7 +12,7 @@ Bulan ramadhan merupakan bulan pelepasan api neraka, bulan penuh ampunan, bulan 
 
 Kedermawanan Nabi Muhammad SAW sendiri saat bulan ramadhan melebihi angin yang berhembus. Diibaratkan demikian karena Rasulullah sangat ringan dan cepat dalam memberi, tanpa banyak berpikir, sebagaimana angin yang berhembus cepat.
 
-Baik, Bismillahirrahmanirrahim aku ingin membagikan beberapa faedah yang terkandung di dalam ayat-ayat puasa, yaitu QS. Al-Baqarah ayat 183-185.
+Baik, Bismillaahirrahmanirrahim aku ingin membagikan beberapa faedah yang terkandung di dalam ayat-ayat puasa, yaitu QS. Al-Baqarah ayat 183-185.
 
 ## Kewajiban Berpuasa
 
@@ -30,8 +30,9 @@ Untuk al-Hijamah atau berbekam, terdapat khilaf diantara ulama, dan aku pribadi 
 
 Diantara faedah yang selanjutnya, adalah anjuran bagi seorang mukmin berpuasa harus penuh dengan keimanan, bukan sekedar rutinitas tahunan semata.
 
-Dari Abu Hurairah, ia berkata:  
-"Barangsiapa berpuasa Ramadhan atas dasar iman dan mengharap pahala dari Allah, maka dosanya yang telah lalu akan diampuni." (HR. Bukhari dan Muslim)
+Dari Abu Hurairah, Ia berkata:
+
+> "Barangsiapa berpuasa Ramadhan atas dasar iman dan mengharap pahala dari Allah, maka dosanya yang telah lalu akan diampuni." (HR. Bukhari dan Muslim)
 
 Diantara bentuk beriman dalam kesempurnaan puasa adalah menjaga adab-adab berpuasa, yaitu:
 
@@ -48,8 +49,9 @@ Diantara bentuk beriman dalam kesempurnaan puasa adalah menjaga adab-adab berpua
 * Memperbanyak berdo'a
     
 
-Dari Abu Hurairah, Rasulullah Shallallahu ‘alaihi wa sallam bersabda,  
-"Puasa itu adalah perisai. Oleh karena itu, jika salah seorang di antara kalian berpuasa, maka janganlah dia berkata-kata kotor dan tidak juga berlaku bodoh. Jika ada orang yang memerangi atau mencacinya, maka hendaklah dia mengatakan, ‘Sesungguhnya aku sedang berpuasa’ (sebanyak dua kali). Demi Rabb yang jiwaku berada di tangan-Nya, bau mulut orang yang berpuasa itu lebih harum di sisi Allah Ta’ala daripada aroma minyak kesturi, di mana dia meninggalkan makanan, minuman, dan nafsu syahwatnya karena Aku (Allah). Puasa itu untuk-Ku dan Aku akan memberikan pahala karenanya dan satu kebaikan itu dibalas dengan sepuluh kali lipatnya." (HR Bukhari dan Muslim)
+Dari Abu Hurairah, Rasulullah *shallallahu 'alaihi wa sallam* bersabda,
+
+> "Puasa itu adalah perisai. Oleh karena itu, jika salah seorang di antara kalian berpuasa, maka janganlah dia berkata-kata kotor dan tidak juga berlaku bodoh. Jika ada orang yang memerangi atau mencacinya, maka hendaklah dia mengatakan, 'Sesungguhnya aku sedang berpuasa' (sebanyak dua kali). Demi Rabb yang jiwaku berada di tangan-Nya, bau mulut orang yang berpuasa itu lebih harum di sisi Allah Ta'ala daripada aroma minyak kesturi, di mana dia meninggalkan makanan, minuman, dan nafsu syahwatnya karena Aku (Allah). Puasa itu untuk-Ku dan Aku akan memberikan pahala karenanya dan satu kebaikan itu dibalas dengan sepuluh kali lipatnya." (HR Bukhari dan Muslim)
 
 ## Warisan
 
@@ -122,14 +124,15 @@ Lalu apa fungsi berdzikir kepada Allah setelah beribadah?
 
 ## Bersyukur
 
-Diantara faedah yang terakhir, adalah agar "kalian" (termasuk aku) bersyukur, karena Allah tidak membutuhkan ibadah hambanya, namun kitalah sebagai hambanya yang membutuhkan ridho Allah SWT.
+Diantara faedah yang terakhir, adalah agar kalian (termasuk aku) bersyukur, karena Allah tidak membutuhkan ibadah hambanya, namun kitalah sebagai hambanya yang membutuhkan ridho Allah SWT.
 
 ## Penutup
 
 Perlu diketahui, orang yang berpuasa akan memiliki 2 kebahagiaan, diantaranya saat kita berbuka dan saat kita berjumpa dengan Allah SWT.
 
-Rasulullah SAW pernah bersabda,  
-"Sesungguhnya di surga ada suatu pintu yang disebut “ar rayyan“. Orang-orang yang berpuasa akan masuk melalui pintu tersebut pada hari kiamat. Selain orang yang berpuasa tidak akan memasukinya. Nanti orang yang berpuasa akan diseru, “Mana orang yang berpuasa.” Lantas mereka pun berdiri, selain mereka tidak akan memasukinya. Jika orang yang berpuasa tersebut telah memasukinya, maka akan tertutup dan setelah itu tidak ada lagi yang memasukinya." (HR. Bukhari dan Muslim)
+Rasulullah *shallallahu 'alaihi wa sallam* pernah bersabda,
+
+> "Sesungguhnya di surga ada suatu pintu yang disebut 'ar rayyan'. Orang-orang yang berpuasa akan masuk melalui pintu tersebut pada hari kiamat. Selain orang yang berpuasa tidak akan memasukinya. Nanti orang yang berpuasa akan diseru, 'Mana orang yang berpuasa.' Lantas mereka pun berdiri, selain mereka tidak akan memasukinya. Jika orang yang berpuasa tersebut telah memasukinya, maka akan tertutup dan setelah itu tidak ada lagi yang memasukinya." (HR. Bukhari dan Muslim)
 
 Sebagai penutup, aku mengutip satu kutipan yang pernah aku dengar dalam satu majelis ilmu.
 
