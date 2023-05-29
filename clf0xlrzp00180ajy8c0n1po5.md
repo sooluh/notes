@@ -64,17 +64,17 @@ Mudah sekali untuk masuk ke akun m-Banking kamu dan mendapatkan kode dari SMS ya
 
 Merujuk pada isi fatwa MUI Nomor 1/Munas VII/MUI/5/2005 Tentang Perlindungan Hak Kekayaan Intelektual yang dibagian akhirnya memutuskan,
 
-"Setiap bentuk pelanggaran terhadap HKI, termasuk namun tidak terbatas pada menggunakan, mengungkapkan, membuat, memakai, menjual, mengimpor, mengekspor, mengedarkan, menyerahkan, menyediakan, mengumumkan, memperbanyak, menjiplak, memalsu, membajak HKI milik orang lain secara tanpa hak merupakan kezaliman dan hukumnya adalah haram."
+> "Setiap bentuk pelanggaran terhadap HKI, termasuk namun tidak terbatas pada menggunakan, mengungkapkan, membuat, memakai, menjual, mengimpor, mengekspor, mengedarkan, menyerahkan, menyediakan, mengumumkan, memperbanyak, menjiplak, memalsu, membajak HKI milik orang lain secara tanpa hak merupakan kezaliman dan hukumnya adalah haram."
 
 Memasang WhatsApp modifikasi ini jelas melanggar ketentuan fatwa tersebut karena merugikan pemegang hak cipta. Dalam hukum Islam ini termasuk bagian dari memakan harta sesama dengan jalan yang bathil karena aktivitas tersebut sama dengan memakai atau mengambil milik orang lain tanpa seizin pemiliknya.
 
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ ۚ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ ۚ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًا
 
-"Hai orang-orang yang beriman, janganlah kamu saling memakan harta sesamamu dengan jalan yang batil, kecuali dengan jalan perniagaan yang berlaku dengan suka sama-suka diantara kamu. Dan janganlah kamu membunuh dirimu; sesungguhnya Allah adalah Maha Penyayang kepadamu." (QS. An-Nisa ayat 29)
+> "Hai orang-orang yang beriman, janganlah kamu saling memakan harta sesamamu dengan jalan yang batil, kecuali dengan jalan perniagaan yang berlaku dengan suka sama-suka diantara kamu. Dan janganlah kamu membunuh dirimu; sesungguhnya Allah adalah Maha Penyayang kepadamu." (QS. An-Nisa ayat 29)
 
 وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 
-"Dan janganlah kamu merugikan manusia pada hak-haknya dan janganlah kamu merajalela di muka bumi dengan membuat kerusakan;" (QS. Asy-Syu'ara ayat 183)
+> "Dan janganlah kamu merugikan manusia pada hak-haknya dan janganlah kamu merajalela di muka bumi dengan membuat kerusakan;" (QS. Asy-Syu'ara ayat 183)
 
 ## Penutup
 
