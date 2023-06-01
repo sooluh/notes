@@ -3,6 +3,7 @@ title: "Pacaran Kemudian Menikah"
 datePublished: Sun May 28 2023 02:28:48 GMT+0000 (Coordinated Universal Time)
 cuid: cli6sxqj000040al5f7hm8bix
 slug: pacaran-kemudian-menikah
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685631859302/723c0513-8fd5-4093-b390-3b7ff0fe8849.png
 tags: refleksi, dakwah
 
 ---
