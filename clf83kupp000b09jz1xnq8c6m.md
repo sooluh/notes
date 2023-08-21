@@ -10,9 +10,9 @@ tags: ramadhan, mubarak
 
 Bulan ramadhan merupakan bulan pelepasan api neraka, bulan penuh ampunan, bulan turunnya Al-Qur'an. Didalamnya terdapat anjuran untuk banyak-banyak bersedekah.
 
-Kedermawanan Nabi Muhammad SAW sendiri saat bulan ramadhan melebihi angin yang berhembus. Diibaratkan demikian karena Rasulullah sangat ringan dan cepat dalam memberi, tanpa banyak berpikir, sebagaimana angin yang berhembus cepat.
+Kedermawanan Nabi Muhammad *shallallahu 'alaihi wa sallam* sendiri saat bulan ramadhan melebihi angin yang berhembus. Diibaratkan demikian karena Rasulullah sangat ringan dan cepat dalam memberi, tanpa banyak berpikir, sebagaimana angin yang berhembus cepat.
 
-Baik, Bismillaahirrahmanirrahim aku ingin membagikan beberapa faedah yang terkandung di dalam ayat-ayat puasa, yaitu QS. Al-Baqarah ayat 183-185.
+Baik, Bismillahirrahmanirrahim aku ingin membagikan beberapa faedah yang terkandung di dalam ayat-ayat puasa, yaitu QS. Al-Baqarah ayat 183-185.
 
 ## Kewajiban Berpuasa
 
@@ -55,7 +55,7 @@ Dari Abu Hurairah, Rasulullah *shallallahu 'alaihi wa sallam* bersabda,
 
 ## Warisan
 
-Masih dalam ayat ke-183, menunjukkan bahwa ibadah puasa adalah ibadah yang diwariskan dari suatu kaum ke kaum yang lain, namun kesempurnaan ibadah puasa telah disempurnakan di dalam syari'at Nabi Muhammad SAW.
+Masih dalam ayat ke-183, menunjukkan bahwa ibadah puasa adalah ibadah yang diwariskan dari suatu kaum ke kaum yang lain, namun kesempurnaan ibadah puasa telah disempurnakan di dalam syari'at Nabi Muhammad *shallallahu 'alaihi wa sallam*.
 
 ## Agar Bertaqwa
 
@@ -111,24 +111,24 @@ Jika berpergian bukan bermaksud seperti demikian, maka setidaknya ada 3 keadaan,
 
 ## Penuh Satu Bulan & Berdzikir
 
-Dalam ayat 185 terdapat kewajiban untuk menyelesaikan puasa hingga hari terakhir, yaitu diantara 29 atau 30 hari. Pun terdapat anjuran untuk memperbanyak berdzikir dan memuji Allah SWT setelah melakukan ibadah.
+Dalam ayat 185 terdapat kewajiban untuk menyelesaikan puasa hingga hari terakhir, yaitu diantara 29 atau 30 hari. Pun terdapat anjuran untuk memperbanyak berdzikir dan memuji Allah *subhanahu wa ta'ala* setelah melakukan ibadah.
 
 Lalu apa fungsi berdzikir kepada Allah setelah beribadah?
 
 1. Dzikir dapat menyempurnakan kekurangan dalam ibadah tersebut.
     
-2. Berdzikir dapat mengingatkan bahwa kita dapat beribadah karena taufik dan hidayah dari Allah SWT.
+2. Berdzikir dapat mengingatkan bahwa kita dapat beribadah karena taufik dan hidayah dari Allah *subhanahu wa ta'ala*.
     
-3. Dzikir dapat membantu kita agar dapat istiqomah beribadah kepada Allah SWT.
+3. Dzikir dapat membantu kita agar dapat istiqomah beribadah kepada Allah *subhanahu wa ta'ala*.
     
 
 ## Bersyukur
 
-Diantara faedah yang terakhir, adalah agar kalian (termasuk aku) bersyukur, karena Allah tidak membutuhkan ibadah hambanya, namun kitalah sebagai hambanya yang membutuhkan ridho Allah SWT.
+Diantara faedah yang terakhir, adalah agar kalian (termasuk aku) bersyukur, karena Allah tidak membutuhkan ibadah hambanya, namun kitalah sebagai hambanya yang membutuhkan ridha Allah *subhanahu wa ta'ala*.
 
 ## Penutup
 
-Perlu diketahui, orang yang berpuasa akan memiliki 2 kebahagiaan, diantaranya saat kita berbuka dan saat kita berjumpa dengan Allah SWT.
+Perlu diketahui, orang yang berpuasa akan memiliki 2 kebahagiaan, diantaranya saat kita berbuka dan saat kita berjumpa dengan Allah *subhanahu wa ta'ala*.
 
 Rasulullah *shallallahu 'alaihi wa sallam* pernah bersabda,
 
