@@ -20,7 +20,7 @@ Kesalahan-kesalahan tersebut terjadi sepenuhnya karena keteledoran kita, ketidak
 
 ## Kesempurnaan Hanya Milik Allah
 
-Benar demikian, sudah seharusnya kita menyadari bahwa kesempurnaan hanya milik Allah SWT. Kita saja, ciptaan-Nya, tidaklah sempurna, apalagi dengan hal-hal yang kita ciptakan?
+Benar demikian, sudah seharusnya kita menyadari bahwa kesempurnaan hanya milik Allah *subhanahu wa ta'ala*. Kita saja, ciptaan-Nya, tidaklah sempurna, apalagi dengan hal-hal yang kita ciptakan?
 
 Error dapat muncul dicodingan kita, mungkin karena kita telah lupa akan kebesaran dan kesempurnaan Allah. Dan ketika error datang menyapa, bukankah artinya Allah masih peduli dengan kita? Allah ingin kita terus mengingat-Nya, maka bersyukurlah.
 
