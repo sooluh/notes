@@ -1,5 +1,5 @@
 ---
-title: "How I Handled Secure Session Management and Multi-Device Logout in Adonis 5"
+title: "How I Handled Secure Session Management in Adonis 5"
 datePublished: Mon Aug 14 2023 05:36:20 GMT+0000 (Coordinated Universal Time)
 cuid: cllafzcs6000108jx8pla49fb
 slug: session-management-adonis-5
