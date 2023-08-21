@@ -54,7 +54,7 @@ Syukuri semua Ilmu pemrograman yang kita miliki sekarang, syukuri berapapun sala
 
 Jangan lupa untuk selalu meminta ampunan kepada Allah dengan cara beristighfar, karena kita manusia tidaklah sempurna, barangkali ada kemunkaran yang tidak sengaja maupun sengaja kita lakukan saat sedang melakukan aktivitas ngoding.
 
-Semoga Allah selalu meridhoi segala aktivitas mubah yang kita lakukan dan menerimanya sebagai ketaatan dan ibadah disisi Allah SWT. Aamiin Allahuma Aamiin.
+Semoga Allah selalu meridhoi segala aktivitas mubah yang kita lakukan dan menerimanya sebagai ketaatan dan ibadah disisi Allah *subhanahu wa ta'ala*. Aamiin Allahuma Aamiin.
 
 Wallahu a'lam bish-shawab,  
 Barakallahu fiikum.
