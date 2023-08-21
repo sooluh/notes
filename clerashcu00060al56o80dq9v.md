@@ -41,7 +41,7 @@ Kalau ditanya capek apa engga, tentu semua orang pasti capek, lagi pula ini hany
 
 Di beberapa paragraf di atas, aku sempat menyinggung kalau dakwah ini kewajiban seorang muslim. Ya itu benar! Saat ini, kebanyakan orang menganggap dakwah ini hanya tugas seorang da'i, mereka menganggap kalau dakwah adalah sebuah profesi, padahal pandangan itu salah.
 
-Dakwah adalah kewajiban semua orang yang mengaku bahwa dirinya adalah seorang muslim, ini disampaikan secara jelas oleh Allah SWT pada firmannya dalam QS. Ali 'Imran ayat 110,
+Dakwah adalah kewajiban semua orang yang mengaku bahwa dirinya adalah seorang muslim, ini disampaikan secara jelas oleh Allah *subhanahu wa ta'ala* pada firmannya dalam QS. Ali 'Imran ayat 110,
 
 > "Kamu adalah umat yang terbaik yang dilahirkan untuk manusia, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar, dan beriman kepada Allah." (TQS. Ali 'Imran ayat 110)
 
@@ -51,7 +51,7 @@ Pun Rasulullah *shallallahu 'alaihi wa sallam* pernah bersabda,
 
 ## Diam Adalah Syaiton Akhros
 
-Apa itu syaiton akhros? Syaiton akhros adalah syaiton bisu, ini adalah syaiton dari golongan manusia, yang paham kalau diantara mereka ada kemungkaran, tapi dia memilih diam. Ibnu Qayyim Rahimahullah berkata,
+Apa itu syaiton akhros? Syaiton akhros adalah syaiton bisu, ini adalah syaiton dari golongan manusia, yang paham kalau diantara mereka ada kemungkaran, tapi dia memilih diam. Ibnu Qayyim *rahimahullah* berkata,
 
 > "Tidaklah kalian dengar ucapan seorang pemberi nasehat 'Orang yang berbicara dengan kebatilan adalah setan yang pandai bicara, sedangkan orang yang diam dari kebenaran adalah setan yang bisu." (Ad-Da'u wad Dawa')
 
