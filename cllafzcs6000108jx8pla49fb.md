@@ -44,7 +44,7 @@ export default class extends BaseSchema {
 }
 ```
 
-I'm not sure if this is the best practice because in Laravel itself, I didn't find this additional table, maybe everything is handled by the Auth class (related to sessions). Since I also don't quite understand the session management behind Adonis, so it's fine.
+I'm not sure if this is the best practice because in Laravel itself, I didn't find this additional table, maybe everything is handled by the Auth class (related to sessions). Since I also don't quite understand the session management behind Adonis, it's fine.
 
 > Alternatively, if storing sessions in the database feels too heavy, you can use Redis for this.
 
@@ -163,4 +163,4 @@ For those using memory? I don't care, it's hard to explain, you can explore it y
 
 And that's it! I hope it can help, I've also opened a discussion and proposal regarding this on the official Adonis Discord. Just wait, hopefully, Adonis 6 will have this feature.
 
-Thank you.
+Thanks.
