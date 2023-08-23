@@ -3,6 +3,7 @@ title: "Sudah Berhijab Namun Perlu Dihijab Kembali"
 datePublished: Mon Aug 21 2023 12:27:18 GMT+0000 (Coordinated Universal Time)
 cuid: cllkuqt9l000209mmb78pfcqj
 slug: tabarruj
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692765954732/53bccb21-0dbc-4c6c-9305-e4232e490975.png
 tags: refleksi, dakwah
 
 ---
