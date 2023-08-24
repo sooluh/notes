@@ -26,7 +26,7 @@ Fenomena tabarruj sering kali dipicu oleh berbagai faktor sosial dan budaya yang
     
 4. **Mementingkan Mode dan Hawa Nafsu**: Tren mode dan tuntutan hawa nafsu sering kali mengalahkan kepatuhan terhadap norma-norma agama. Dorongan untuk tampil "modis" dan "menarik" bisa menjadi penyebab seseorang berpenampilan tabarruj tanpa memikirkan konsekuensinya.
     
-5. **Hubungan dengan Dunia Pacaran**: Kaitan antara tabarruj dan fenomena pacaran juga patut diperhatikan. Dalam budaya pacaran yang semakin meluas, tampil menarik untuk menarik perhatian lawan jenis bisa menjadi alasan untuk menunjukkan lebih banyak kulit dan mengekspos diri.
+5. **Hubungan dengan Dunia Pacaran**: Kaitan antara tabarruj dan fenomena pacaran juga patut diperhatikan. Dalam budaya pacaran yang semakin meluas, tampil menarik untuk menarik perhatian lawan jenis bisa menjadi alasan untuk menunjukkan lebih banyak kulit (wajah, dll) dan mengekspos diri.
     
 
 > Orang-orang Yahudi dan Nasrani tidak akan senang kepada kamu hingga kamu mengikuti agama mereka. Katakanlah: "Sesungguhnya petunjuk Allah itulah petunjuk (yang benar)". Dan sesungguhnya jika kamu mengikuti kemauan mereka setelah pengetahuan datang kepadamu, maka Allah tidak lagi menjadi pelindung dan penolong bagimu. (QS. Al-Baqarah: 120)
