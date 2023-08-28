@@ -2,7 +2,7 @@
 title: "Create My Own MessageFormat"
 datePublished: Fri Mar 17 2023 02:37:42 GMT+0000 (Coordinated Universal Time)
 cuid: clfbxjun600010al1botwgnay
-slug: messageformat
+slug: create-my-own-messageformat
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685070155871/810362a1-b8fa-47ef-a6ab-08c29caf5b2e.png
 tags: javascript, regex
 
@@ -10,7 +10,7 @@ tags: javascript, regex
 
 Some time ago, I was fascinated by the [intl-messageformat](https://formatjs.io/docs/intl-messageformat) package, and I always use it whenever a message format is needed.
 
-The features are quite complete; I'm overwhelmed by it, but it turns out I only need the placeholder part; the other features are just the cherry on top, so I decided to make my placeholder.
+The features are quite complete; I'm overwhelmed by it, but it turns out I only need the placeholder part; The other features are just the cherry on top, so I decided to make my placeholder.
 
 The first thing that came to mind was [regex](https://en.wikipedia.org/wiki/Regular_expression), so I went straight to regex101 to do a little experimentation and test some of the strings normally used to create the placeholders.
 
@@ -26,7 +26,7 @@ Those are some samples that may be formatted with dynamic variables in the futur
 
 Because of the space condition, I used `\s+` to detect the space, and I added `?` to make it optional. So I optionally grouped the space tokens into `(\s+)?`.
 
-So I complete the regular expression as below, where I detect the open and close curly and add a backslash to escape them both. Then, following the sample, I added the keyword `name` to detect that the keyword exists.
+So I complete the regular expression as below, where I detect the open and closed curly and add a backslash to escape them both. Then, following the sample, I added the keyword `name` to detect that the keyword exists.
 
 ```markdown
 \{(\s+)?name(\s+)?\}
@@ -43,7 +43,7 @@ console.log(parser('My name is { name }!', 'John Doe'))
 // My name is John Doe!
 ```
 
-And of course, it only works for one placeholder; what if we have multiple keywords with the name `name`? Does it still work? of course not, so I added the `gi` regex flag. `g` means globally, and `i` mean insensitive.
+And of course, it only works for one placeholder; what if we have multiple keywords with the name `name`? Does it still work? Of course not, so I added the `gi` regex flag. `g` means globally, and `i` mean insensitive.
 
 ```javascript
 function parser(template, name) {
@@ -92,7 +92,7 @@ function parser(template, params) {
 }
 ```
 
-I don't understand why it has to be like that; I'm still looking for an explanation, but I couldn't find it (maybe I'm just not observant or even lazy to search hehe).
+I don't understand why it has to be like that; I'm still looking for an explanation, but I couldn't find it (maybe I'm just not observant or even too lazy to search hehe).
 
 Finally, before I close, maybe you want to try it. You can run the pen in my CodePen; [let's see](https://codepen.io/sooluh/pen/PodexKQ) (see console).
 
