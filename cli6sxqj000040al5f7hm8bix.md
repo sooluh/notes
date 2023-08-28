@@ -22,7 +22,7 @@ Tentu, hukum pacaran adalah haram dan pacaran adalah perbuatan yang tergolong me
 
 وَلَا تَقْرَبُوا الزِّنٰىٓ اِنَّهٗ كَانَ فَاحِشَةً ۗوَسَاۤءَ سَبِيْلًا
 
-> "Dan janganlah kamu mendekati zina; (zina) itu sungguh suatu perbuatan keji, dan suatu jalan yang buruk." (TQS. Al-Isra' ayat 32)
+> Dan janganlah kamu mendekati zina; (zina) itu sungguh suatu perbuatan keji, dan suatu jalan yang buruk. (QS. Al-Isra' ayat 32)
 
 Lantas, bila ada sepasang kekasih yang sebelum menikah mereka berpacaran terlebih dahulu, melakukan aktifitas chattingan, pegangan tangan, gandengan, pelukan dan seterusnya, tentu itu semua adalah aktifitas-aktifitas yang haram dan memiliki konsekuensi dosa.
 
@@ -88,7 +88,7 @@ Jadi setelah pernikahan, kalau suatu rumah tangga menjalankan syariat Islam sesu
 
 Rasulullah *shallallahu 'alaihi wa sallam* bersabda,
 
-> "Bertakwalah kepada Allah di manapun kamu berada. Iringilah perbuatan dosa dengan amal kebaikan, karena kebaikan itu dapat menghapusnya. Serta bergaulah dengan orang lain yang memiliki akhlak yang baik." (HR. Ahmad 21354, Tirmidzi 1987, Ia berkata: hadist ini hasan shahih)
+> Bertakwalah kepada Allah di manapun kamu berada. Iringilah perbuatan dosa dengan amal kebaikan, karena kebaikan itu dapat menghapusnya. Serta bergaulah dengan orang lain yang memiliki akhlak yang baik. (HR. Ahmad 21354, Tirmidzi 1987, Ia berkata: hadist ini hasan shahih)
 
 Jadi, ketika suatu saat kita berbuat dosa misalnya (Naudzubillah, jangan sampai), maka sertai dengan kebaikan. Isi sisa kehidupan kita dengan kebaikan, InsyaAllah ketika Allah ridha, kebaikan itu yang akan menjadi *kifarat*, penebus dosa-dosa kita.
 
