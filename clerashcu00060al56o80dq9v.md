@@ -8,7 +8,7 @@ tags: profesi, refleksi, dakwah
 
 ---
 
-Sedari kecil aku tidak berada di lingkungan yang taat pada agama, menjadi muslim yang biasa-biasa saja. Tidak fanatik, hanya mengamalkan yang wajib-wajib, itupun terkadang masih lalai, bahkan tidak banyak ditemukan amar ma'ruf nahi munkar. Namun amalan yang tidak ada asal, bukan tuntunan Rasulullah *shallallahu 'alaihi wa sallam*, justru diamalkan.
+Sedari kecil aku tidak berada di lingkungan yang taat pada agama, menjadi muslim yang biasa-biasa saja. Tidak fanatik, hanya mengamalkan yang wajib-wajib saja, itupun terkadang masih lalai, bahkan tidak banyak ditemukan amar ma'ruf nahi munkar. Namun amalan yang tidak ada asal, bukan tuntunan Rasulullah *shallallahu 'alaihi wa sallam*, justru diamalkan.
 
 Aku mengeksplorasi komputer dan isinya saat aku duduk dibangku kelas 1 SMP, dimana aku baru saja memiliki sebuah smartphone second. Dan disaat itu juga aku memilih untuk menjadi seorang programmer.
 
