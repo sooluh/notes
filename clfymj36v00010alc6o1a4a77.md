@@ -2,7 +2,7 @@
 title: "Dinilai Sebagai Ketaatan Saat Bertemu Error"
 datePublished: Sat Apr 01 2023 23:47:53 GMT+0000 (Coordinated Universal Time)
 cuid: clfymj36v00010alc6o1a4a77
-slug: error
+slug: dinilai-sebagai-ketaatan-saat-bertemu-error
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685628116460/8d871709-3575-41e1-b5e1-0c23498604dd.png
 tags: profesi, refleksi, dakwah
 
