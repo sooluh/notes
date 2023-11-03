@@ -86,7 +86,7 @@ In some cases, the Portainer server may timeout when you first try to access it.
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698942530121/1271d99e-15e7-4e66-a3d1-c3c7969bc388.png align="center")
 
 ```bash
-docker retart portainer
+docker restart portainer
 ```
 
 Once you have accessed the Portainer web UI, you will be prompted to create a new administrator account. Enter a username and password, and then click Create user.
