@@ -3,7 +3,7 @@ title: "Step-by-Step Guide to Install Portainer on Ubuntu"
 datePublished: Thu Nov 02 2023 16:45:03 GMT+0000 (Coordinated Universal Time)
 cuid: clohf3hcj000h09lda1w6crwu
 slug: install-portainer-on-ubuntu
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704618342732/1e2874ee-4f9c-452f-b7ad-2e3e768d67ae.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704618837088/41a1370f-1fda-4446-a932-dfa6a5a9ecc2.jpeg
 tags: ubuntu, docker
 
 ---
