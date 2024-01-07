@@ -3,7 +3,7 @@ title: "Ngoding Itu Ibadah?"
 datePublished: Mon Mar 06 2023 09:15:27 GMT+0000 (Coordinated Universal Time)
 cuid: clewlwznm001209mp23p7bkjr
 slug: ngoding-itu-ibadah
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685069994178/8f3aa3e3-b729-479c-8faa-13911f1ceccb.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704616515383/5d959421-eb09-491e-a041-8206d8c4f4a4.jpeg
 tags: profesi, refleksi, dakwah
 
 ---
