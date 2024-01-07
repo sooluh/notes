@@ -3,6 +3,7 @@ title: "Programmer Ngapain Dakwah?"
 datePublished: Thu Mar 02 2023 16:05:10 GMT+0000 (Coordinated Universal Time)
 cuid: clerashcu00060al56o80dq9v
 slug: programmer-ngapain-dakwah
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704616300420/5fa2e3f7-b5ab-41be-be17-b64c31942817.jpeg
 tags: profesi, refleksi, dakwah
 
 ---
