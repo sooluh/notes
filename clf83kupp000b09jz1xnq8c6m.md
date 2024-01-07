@@ -3,7 +3,7 @@ title: "Renungan Seputar Ayat Puasa"
 datePublished: Tue Mar 14 2023 10:15:22 GMT+0000 (Coordinated Universal Time)
 cuid: clf83kupp000b09jz1xnq8c6m
 slug: renungan-seputar-ayat-puasa
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685070131931/1eba5d3b-c2c2-438e-94f3-184fc270cb38.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704616093106/dec89b76-e7c7-4867-861e-f92d6963ee66.jpeg
 tags: ramadhan, mubarak
 
 ---
