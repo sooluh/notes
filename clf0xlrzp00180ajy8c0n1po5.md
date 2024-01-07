@@ -3,7 +3,7 @@ title: "Bukan Sekedar WhatsApp Mod"
 datePublished: Thu Mar 09 2023 09:53:44 GMT+0000 (Coordinated Universal Time)
 cuid: clf0xlrzp00180ajy8c0n1po5
 slug: bukan-sekedar-whatsapp-mod
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685070084148/bc8ff005-ae72-4fea-8a3c-cc12f346df52.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704616736414/2a28c499-c6f4-4e89-b028-3c00a4e053bd.jpeg
 tags: whatsapp, dakwah, ilegal
 
 ---
