@@ -42,15 +42,15 @@ Jika untuk 90 menit ini saja kita banting tulang untuk menjalaninya, sudahkah ki
 
 Perlu diingat kembali, bahwa setelah kita melewati kehidupan ini, tidak ada lagi yang berguna kecuali amal baik kita. Tidak ada pakaian, tidak ada sandal, dan bahkan matahari hanya berjarak 1 mil, tidak ada naungan kecuali naungan-Nya.
 
-> *Hai orang-orang yang beriman, bertakwalah kepada Allah dan hendaklah setiap diri memperhatikan apa yang telah diperbuatnya untuk hari esok (akhirat), dan bertakwalah kepada Allah, sesungguhnya Allah Maha Mengetahui apa yang kamu kerjakan*. (QS. Al-Hasyr: 18)
+> Hai orang-orang yang beriman, bertakwalah kepada Allah dan hendaklah setiap diri memperhatikan apa yang telah diperbuatnya untuk hari esok (akhirat); dan bertakwalah kepada Allah, sesungguhnya Allah Maha Mengetahui apa yang kamu kerjakan. (QS. Al-Hasyr: 18)
 
 Kembali lagi ke paragraf dimana aku membuka tulisan ini, apakah dengan amalan-amalan kita (terkhusus diriku sendiri), kita siap untuk bertemu dengan-Nya atau malah justru tenggelam dalam kemurkaan-Nya? sedangkan kita di dunia ini hanya diberi waktu yang sangat singkat.
 
-> Tiap-tiap umat mempunyai batas waktu, maka apabila telah datang waktunya mereka tidak dapat mengundurkannya barang sesaat pun dan tidak dapat (pula) memajukannya. (QS. Al-A'raf: 34)
+> Tiap-tiap umat mempunyai batas waktu; maka apabila telah datang waktunya mereka tidak dapat mengundurkannya barang sesaatpun dan tidak dapat (pula) memajukannya. (QS. Al-A'raf: 34)
 
 Hidayah hanya milik Allah *subhanahu wa ta'ala* dan semoga kita senantiasa mendapatkan taufiq dan hidayah-Nya, Aamiin ya Rabbal alamin.
 
-> Dia (Allah) berfirman, 'Berapa tahunkah lamanya kamu tinggal di bumi?' Mereka menjawab, 'Kami tinggal (di bumi) sehari atau setengah hari, maka tanyakanlah kepada mereka yang menghitung.' Dia (Allah) berfirman, 'Kamu tinggal (di bumi) hanya sebentar saja, jika kamu benar-benar mengetahui. (QS. Al-Mu'minun: 112-114)
+> Allah bertanya: 'Berapa tahunkah lamanya kamu tinggal di bumi?' Mereka menjawab: 'Kami tinggal (di bumi) sehari atau setengah hari, maka tanyakanlah kepada orang-orang yang menghitung'. Allah berfirman: 'Kamu tidak tinggal (di bumi) melainkan sebentar saja, kalau kamu sesungguhnya mengetahui' (QS. Al-Mu'minun: 112-114)
 
 Semoga bermanfaat,  
 Wallahu a'lam bish-shawab,  
