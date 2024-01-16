@@ -18,15 +18,15 @@ Dikutip dari [konsultasisyariah.com](https://konsultasisyariah.com/21494-apa-itu
 
 Fenomena tabarruj sering kali dipicu oleh berbagai faktor sosial dan budaya yang berkembang di masyarakat. Beberapa penyebab utama mengapa tabarruj semakin umum diantaranya.
 
-1. **Hilangnya Penghormatan terhadap Nilai-Nilai Kesopanan**: Perubahan budaya dan pergaulan modern telah menyebabkan hilangnya penghormatan terhadap nilai-nilai kesopanan dan etika berpakaian. Konsep berpakaian sopan telah tergerus oleh pengaruh budaya populer yang mempromosikan gaya hidup bebas dan ekspresif (*<s>open-minded</s>*).
+1. **Hilangnya Penghormatan terhadap Nilai-Nilai Kesopanan**. Perubahan budaya dan pergaulan modern telah menyebabkan hilangnya penghormatan terhadap nilai-nilai kesopanan dan etika berpakaian. Konsep berpakaian sopan telah tergerus oleh pengaruh budaya populer yang mempromosikan gaya hidup bebas dan ekspresif (*<s>open-minded</s>*).
     
-2. **Pembiaran dari Lingkungan Masyarakat**: Lingkungan sosial yang membiarkan perilaku tabarruj juga turut berkontribusi dalam meningkatkannya. Kurangnya pengawasan dan teguran terhadap perilaku tidak senonoh dapat mempengaruhi individu untuk mengikuti tren tabarruj.
+2. **Pembiaran dari Lingkungan Masyarakat**. Lingkungan sosial yang membiarkan perilaku tabarruj juga turut berkontribusi dalam meningkatkannya. Kurangnya pengawasan dan teguran terhadap perilaku tidak senonoh dapat mempengaruhi individu untuk mengikuti tren tabarruj.
     
-3. **Sengaja Menjauhi Aturan Agama**: Beberapa orang mungkin dengan sengaja menjauhi aturan berpakaian yang telah ditetapkan dalam agama. Motivasi ini bisa muncul karena kurangnya pemahaman tentang arti hijab atau karena terpengaruh oleh pandangan yang mengecilkan pentingnya berpakaian sopan.
+3. **Sengaja Menjauhi Aturan Agama**. Beberapa orang mungkin dengan sengaja menjauhi aturan berpakaian yang telah ditetapkan dalam agama. Motivasi ini bisa muncul karena kurangnya pemahaman tentang arti hijab atau karena terpengaruh oleh pandangan yang mengecilkan pentingnya berpakaian sopan.
     
-4. **Mementingkan Mode dan Hawa Nafsu**: Tren mode dan tuntutan hawa nafsu sering kali mengalahkan kepatuhan terhadap norma-norma agama. Dorongan untuk tampil "modis" dan "menarik" bisa menjadi penyebab seseorang berpenampilan tabarruj tanpa memikirkan konsekuensinya.
+4. **Mementingkan Mode dan Hawa Nafsu**. Tren mode dan tuntutan hawa nafsu sering kali mengalahkan kepatuhan terhadap norma-norma agama. Dorongan untuk tampil "modis" dan "menarik" bisa menjadi penyebab seseorang berpenampilan tabarruj tanpa memikirkan konsekuensinya.
     
-5. **Hubungan dengan Dunia Pacaran**: Kaitan antara tabarruj dan fenomena pacaran juga patut diperhatikan. Dalam budaya pacaran yang semakin meluas, tampil menarik untuk menarik perhatian lawan jenis bisa menjadi alasan untuk menunjukkan lebih banyak kulit (wajah, dll) dan mengekspos diri.
+5. **Hubungan dengan Dunia Pacaran**. Kaitan antara tabarruj dan fenomena pacaran juga patut diperhatikan. Dalam budaya pacaran yang semakin meluas, tampil menarik untuk menarik perhatian lawan jenis bisa menjadi alasan untuk menunjukkan lebih banyak kulit (wajah, tangan, dll) dan mengekspos diri.
     
 
 > Orang-orang Yahudi dan Nasrani tidak akan senang kepada kamu hingga kamu mengikuti agama mereka. Katakanlah: "Sesungguhnya petunjuk Allah itulah petunjuk (yang benar)". Dan sesungguhnya jika kamu mengikuti kemauan mereka setelah pengetahuan datang kepadamu, maka Allah tidak lagi menjadi pelindung dan penolong bagimu. (QS. Al-Baqarah: 120)
