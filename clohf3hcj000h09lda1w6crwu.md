@@ -1,5 +1,5 @@
 ---
-title: "Step-by-Step Guide to Install Portainer on Ubuntu"
+title: "Step-by-Step Guide to Install Portainer"
 datePublished: Thu Nov 02 2023 16:45:03 GMT+0000 (Coordinated Universal Time)
 cuid: clohf3hcj000h09lda1w6crwu
 slug: install-portainer-on-ubuntu
@@ -16,13 +16,11 @@ Recently, my company set up a local server for demoing apps to clients. I chose 
 
 Portainer is a great choice for developers and system administrators who want to manage Docker containers without having to learn the command line. It is also a good option for businesses that want to make Docker more accessible to their employees.
 
-In this article, I will show you how to install Portainer on Ubuntu (specifically for 22.04).
-
 ## Prerequisites
 
 Before you can install Portainer, you need to have the following:
 
-* A server running on Ubuntu 22.04
+* A server running on Ubuntu (or other distro)
     
 * Docker and Docker Compose installed
     
@@ -89,7 +87,7 @@ In some cases, the Portainer server may timeout when you first try to access it.
 docker restart portainer
 ```
 
-Once you have accessed the Portainer web UI, you will be prompted to create a new administrator account. Enter a username and password, and then click Create user.
+You will be prompted to create a new administrator account. Enter a username and password, and then click Create user.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698942892987/582ab1dd-873a-465a-a882-3fb540e14cf7.png align="center")
 
@@ -105,7 +103,7 @@ The local environment is the default environment and is used to manage the conta
 
 ## Conclusion
 
-In this article, you learned how to install Portainer on Ubuntu. You also learned how to complete the initial setup of Portainer and view your environments.
+In this article, you learned how to install Portainer. You also learned how to complete the initial setup of Portainer and view your environments.
 
 In the next article, we will discuss how to create containers, stacks, volumes and networks using Portainer, Insha Allah. We will also cover some advanced topics, such as deploying containers to production.
 
