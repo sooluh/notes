@@ -363,7 +363,7 @@ class Profile extends Component implements HasForms
 
 Before changing the blade component, create a new file at `resources/views/components/app/input-error.blade.php` and add the following.
 
-```php
+```xml
 @props(['for'])
 
 @error($for)
@@ -375,7 +375,7 @@ Before changing the blade component, create a new file at `resources/views/compo
 
 This blade component is for error message display. For `filament/pages/app/profile.blade.php`, modify it as below, including the two Livewire components we created earlier.
 
-```php
+```xml
 <x-filament-panels::page>
     <x-filament::grid @class(['gap-6']) xl="2">
         <x-filament::grid.column>
@@ -391,7 +391,7 @@ This blade component is for error message display. For `filament/pages/app/profi
 
 Next, open and modify the Livewire component `password.blade.php` with the following code.
 
-```php
+```xml
 <x-filament::section>
     <x-slot name="heading">
         Change Password
@@ -411,7 +411,7 @@ Next, open and modify the Livewire component `password.blade.php` with the follo
 
 And finally, for the Livewire component `profile.blade.php`, do the following.
 
-```php
+```xml
 <x-filament::section>
     <x-slot name="heading">
         Profile Detail
