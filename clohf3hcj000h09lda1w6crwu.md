@@ -38,7 +38,7 @@ This will create a volume named `portainer` that will be used to store Portainer
 Then run the Portainer container
 
 ```bash
-docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
+docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer:/data portainer/portainer-ce:latest
 ```
 
 This will run the Portainer container with the following parameters:
