@@ -36,7 +36,7 @@ Sesuai hukum syara' dalam Islam, secara umum menikah sendiri hukumnya adalah sun
 
 Para Ulama menetapkan hukum menikah itu berdasarkan keadaan dan niat pelaku (calon pengantin), ada 5 hukumnya, diantaranya dapat menjadi wajib, sunnah, mubah, makruh pun dapat menjadi haram.
 
-Menikah adalah aktifitas yang InsyaAllah diridhoi oleh Allah *subhanahu wa ta'ala* dan dapat membuahkan pahala. Baik, kita contohkan hukum menikah ini menjadi wajib, karena ternyata kedua pasangan (yang pacaran) sudah semakin dekat dan bahaya jika tidak segera diikat dengan pernikahan.
+Menikah adalah aktifitas yang InsyaAllah diridhai oleh Allah *subhanahu wa ta'ala* dan dapat membuahkan pahala. Baik, kita contohkan hukum menikah ini menjadi wajib, karena ternyata kedua pasangan (yang pacaran) sudah semakin dekat dan bahaya jika tidak segera diikat dengan pernikahan.
 
 Mungkin misalnya ada kemungkinan akan terjadinya perzinaan, maka menikah akan menjadi sebuah akad yang akhirnya mengesahkan antara kedua pasangan haram tadi dan tentu InsyaAllah akan berpahala. Tapi pertanyaannya adalah,
 
@@ -60,7 +60,7 @@ Yang ingin aku sampaikan disini adalah, ketika jalannya sudah baik, mengambil ja
 
 ## Berumah Tangga
 
-Seperti apa berumah tangga yang baik dalam Islam, adalah ilmu yang harus dipelajari dan kemudian diamalkan. Tentu jika ini dijalankan dengan baik dan benar, maka InsyaAllah, mudah-mudahan Allah memberikan keridhoan dan keberkahan dalam rumah tangga.
+Seperti apa berumah tangga yang baik dalam Islam, adalah ilmu yang harus dipelajari dan kemudian diamalkan. Tentu jika ini dijalankan dengan baik dan benar, maka InsyaAllah, mudah-mudahan Allah memberikan keridhaan dan keberkahan dalam rumah tangga.
 
 Karena jika sepasang kekasih berumah tangga namun bukan dengan cara Islam (tanpa ilmu), maka yang terjadi adalah tidak akan ada keberkahan didalamnya, karena rumah tangga tersebut tidak dijalankan sesuai dengan syariat Islam.
 
@@ -70,7 +70,7 @@ Lalu bagaimana caranya agar rumah tangga diberkahi? Tentunya dengan berumah tang
 
 Ketika seorang istri dan suami mengaji dan mengikuti kajian rutin, maka kedepannya akan sama-sama tau, mana hak dan kewajibannya, juga sama-sama bisa saling memberikan dukungan/support dan saling mengingatkan satu sama lain. Pada intinya, ketika berumah tangga dan menginginkan keberkahan, maka suami dan istri harus sama-sama belajar untuk lebih dekat kepada Allah *subhanahu wa ta'ala*.
 
-Langkah yang pertama adalah sama-sama meniatkan diri untuk bisa menjadi lebih dekat dengan Allah *subhanahu wa ta'ala*, agar Allah meridhoi kita. Yang kedua ialah dengan menuntut ilmu, banyak mencari tau dan datang ke majelis-majelis ilmu, kira-kira apa sih yang Allah inginkan, bagaimana sih rumah tangga yang Allah ridhoi dan berkahi? Ketika sudah mengerti ilmunya maka harus diamalkan dalam kehidupan berumah tangga.
+Langkah yang pertama adalah sama-sama meniatkan diri untuk bisa menjadi lebih dekat dengan Allah *subhanahu wa ta'ala*, agar Allah meridhai kita. Yang kedua ialah dengan menuntut ilmu, banyak mencari tau dan datang ke majelis-majelis ilmu, kira-kira apa sih yang Allah inginkan, bagaimana sih rumah tangga yang Allah ridhai dan berkahi? Ketika sudah mengerti ilmunya maka harus diamalkan dalam kehidupan berumah tangga.
 
 ### Menjadi Suami/Istri Yang Baik
 
@@ -84,17 +84,13 @@ Maka ketika sudah berumah tangga, hal-hal itulah yang harus diwaspadai. Baiknya 
 
 ## Penutup
 
-Jadi setelah pernikahan, kalau suatu rumah tangga menjalankan syariat Islam sesuai dengan apa yang diperintahkan oleh Allah dan Rasul-Nya, sesuai dengan tuntunan syariat Islam, InsyaAllah keluarganya akan menjadi keluarga yang diberkahi dan diridhoi oleh Allah *subhanahu wa ta'ala*.
+Jadi setelah pernikahan, kalau suatu rumah tangga menjalankan syariat Islam sesuai dengan apa yang diperintahkan oleh Allah dan Rasul-Nya, sesuai dengan tuntunan syariat Islam, InsyaAllah keluarganya akan menjadi keluarga yang diberkahi dan diridhai oleh Allah *subhanahu wa ta'ala*.
 
 Rasulullah *shallallahu 'alaihi wa sallam* bersabda,
 
 > Bertakwalah kepada Allah di manapun kamu berada. Iringilah perbuatan dosa dengan amal kebaikan, karena kebaikan itu dapat menghapusnya. Serta bergaulah dengan orang lain yang memiliki akhlak yang baik. (HR. Ahmad 21354, Tirmidzi 1987, Ia berkata: hadist ini hasan shahih)
 
 Jadi, ketika suatu saat kita berbuat dosa misalnya (Naudzubillah, jangan sampai), maka sertai dengan kebaikan. Isi sisa kehidupan kita dengan kebaikan, InsyaAllah ketika Allah ridha, kebaikan itu yang akan menjadi *kifarat*, penebus dosa-dosa kita.
-
-Dan itulah yang terjadi pada Umar bin Khattab ketika dahulu kafir (belum masuk Islam), dosanya luar biasa banyak, membunuh anak, mabuk, berzina dan seterusnya. Ketika beliau sudah masuk Islam, Umar bin Khattab melakukan kebaikan di tempat-tempat dimana dahulu beliau pernah melakukan kemaksiatan.
-
-Kata Umar bin Khattab: "Tidak ada satupun tempat dimana aku dahulu melakukan kemaksiatan, aku menggantinya dengan ketaatan."
 
 **📝 Catatan & Nasihat:**
 
