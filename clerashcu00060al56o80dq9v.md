@@ -8,11 +8,11 @@ tags: profesi, refleksi, dakwah
 
 ---
 
-Sedari kecil aku tidak berada di lingkungan yang taat pada agama, menjadi muslim yang biasa-biasa saja. Tidak fanatik, hanya mengamalkan yang wajib-wajib saja, itupun terkadang masih lalai, bahkan tidak banyak ditemukan amar ma'ruf nahi munkar. Namun amalan yang tidak ada asal, bukan tuntunan Rasulullah *shallallahu 'alaihi wa sallam*, justru diamalkan.
+Sedari kecil aku tidak berada di lingkungan yang kental agamanya, menjadi muslim yang biasa-biasa saja. Tidak fanatik, hanya mengamalkan yang wajib-wajib saja, itupun terkadang masih lalai, bahkan tidak banyak ditemukan *amar ma'ruf nahi munkar*. Namun amalan yang tidak ada asal, bukan tuntunan Rasulullah *shallallahu 'alaihi wa sallam*, justru diamalkan.
 
-Aku mengeksplorasi komputer dan isinya saat aku duduk dibangku kelas 1 SMP, dimana aku baru saja memiliki sebuah smartphone second. Dan disaat itu juga aku memilih untuk menjadi seorang programmer.
+Aku mengeksplorasi komputer dan isinya saat aku duduk dibangku kelas 1 SMP, dimana aku baru saja memiliki sebuah *smartphone second*. Dan disaat itu juga aku memilih untuk menjadi seorang programmer.
 
-Bertahun-tahun berlalu tanpa adanya ilmu agama, hanya memperdalam ilmu dunia, pemrograman pemrograman dan pemrograman, begadang demi fix suatu bug, lalai akan waktu, meninggalkan sholat, ah Astaghfirullahaladzim, masa lalu itu sangat memalukan, semoga Allah mengampuniku :)
+Bertahun-tahun berlalu tanpa adanya ilmu agama, hanya memperdalam ilmu dunia, pemrograman pemrograman dan pemrograman, begadang demi *fix* suatu bug, lalai akan waktu, meninggalkan sholat, Astaghfirullah, masa lalu itu sangat memalukan, semoga Allah mengampuniku :)
 
 Aku memilih berhijrah untuk menjadi pribadi yang lebih baik saat aku lulus dari bangku SMK, waktu itu aku masih pacaran dan dengan tegas aku memutuskan pacarku. Dan setelah itu aku benar-benar haus akan ilmu, aku selalu mencari majelis-majelis ilmu, yang ada dipikiranku kala itu adalah "aku hanya ingin ilmu agama untuk bekal aku kedepannya".
 
@@ -35,11 +35,11 @@ Pertanyaan demi pertanyaan ditujukan kepadaku, baik yang disampaikan dengan kono
 
 Dan yang lain sebagainya.
 
-Kalau ditanya capek apa engga, tentu semua orang pasti capek, lagi pula ini hanya cobaan, dan cobaan yang aku terima belum ada apa-apanya jika dibandingkan dengan cobaan-cobaan yang menimpa orang-orang sholeh sebelum aku.
+Kalau ditanya capek apa engga, tentu semua orang pasti capek, lagi pula ini hanya cobaan, dan cobaan yang aku terima belum ada apa-apanya jika dibandingkan dengan cobaan-cobaan yang menimpa orang-orang shaleh sebelum aku.
 
 ## Dakwah Bukanlah Profesi
 
-Di beberapa paragraf di atas, aku sempat menyinggung kalau dakwah ini kewajiban seorang muslim. Ya, itu benar! Saat ini, kebanyakan orang menganggap bahwa dakwah ini hanya tugas seorang da'i, mereka menganggap kalau dakwah adalah sebuah profesi, padahal pandangan itu salah.
+Dibeberapa paragraf di atas, aku sempat menyinggung kalau dakwah ini kewajiban seorang muslim. Ya, itu benar! Saat ini, kebanyakan orang menganggap bahwa dakwah ini hanya tugas seorang da'i, mereka menganggap kalau dakwah adalah sebuah profesi, padahal pandangan itu salah.
 
 Dakwah adalah kewajiban semua orang yang mengaku bahwa dirinya adalah seorang muslim, ini disampaikan secara jelas oleh Allah *subhanahu wa ta'ala* pada firman-Nya dalam QS. Ali 'Imran ayat 110,
 
