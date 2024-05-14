@@ -8,7 +8,7 @@ tags: whatsapp, dakwah, ilegal
 
 ---
 
-Mari kita berbicara tentang bahaya menggunakan WhatsApp hasil modifikasi sebelum berbicara hukum syara'-nya. Disini aku tidak akan memberikan spesifik terhadap merek WhatsApp hasil modifikasi, semuanya sama saja.
+Mari kita berbicara tentang bahaya menggunakan WhatsApp hasil modifikasi sebelum berbicara hukumnya. Disini aku tidak akan memberikan spesifik terhadap merek WhatsApp hasil modifikasi, semuanya sama saja.
 
 Sebut saja GB WhatsApp, Fouad WhatsApp, FMWhatsapp, YoWhatsApp, WhatsApp Aero, OGWhatsApp, WhatsApp Plus, dan masih banyak yang lainnya, semuanya sama. Mari kita bahas!
 
@@ -26,33 +26,33 @@ Beberapa tahun lalu, saat WhatsApp modifikasi ini muncul pertama kali dan WhatsA
 
 Ini memang bukan hal yang cukup bahaya, setidaknya menurut kamu yang mungkin tidak mengerti apa yang sebenarnya terjadi disuatu pembaruan. Memang, pembaruan yang orang awam lihat adalah penambahan fitur atau penyesuaian tampilan, namun tidak dengan pengembang.
 
-Pengembang resmi melakukan pembaruan selain dari segi fitur diantaranya karena adanya bug yang sudah diperbaiki. Kemudian, adanya vulnerability pada dependensi yang digunakan juga bisa menjadi salah satu alasan adanya pembaruan.
+Pengembang resmi melakukan pembaruan selain dari segi fitur diantaranya karena adanya bug yang sudah diperbaiki. Kemudian, adanya *vulnerability* pada dependensi yang digunakan juga bisa menjadi salah satu alasan adanya pembaruan.
 
-Baik aku coba jelaskan secara umum dan InsyaAllah mudah dipahami. Vulnerability secara bahasa artinya kerentanan atau celah keamanan, ini memungkinkan suatu sistem dapat diakses tanpa izin. Vulnerability ini dapat terjadi karena kesalahan pengkodean pihak internal pengembang maupun dari pengkodean yang ada didependensi.
+Baik aku coba jelaskan secara umum dan InsyaAllah mudah dipahami. Vulnerability secara bahasa artinya kerentanan atau celah keamanan, ini memungkinkan suatu sistem dapat diakses tanpa izin. *Vulnerability* ini dapat terjadi karena kesalahan pengkodean pihak internal pengembang maupun dari peng-kodean yang ada didependensi.
 
-Pengembang tidak selalu melakukan semua pengkodean dari nol, biasanya kita menggunakan dependensi untuk mempercepat pengembangan suatu sistem/aplikasi. Nah dependensi ini didapat dari pihak ketiga yang secara resmi sudah dipublikasikan ke internet dan bebas digunakan oleh siapapun yang memang memerlukan dan ingin menggunakannya.
+Pengembang tidak selalu melakukan semua peng-kodean dari nol, biasanya kita menggunakan dependensi untuk mempercepat pengembangan suatu sistem/aplikasi. Nah dependensi ini didapat dari pihak ketiga yang secara resmi sudah dipublikasikan ke internet dan bebas digunakan oleh siapa pun yang memang memerlukan dan ingin menggunakannya.
 
-Maka karena pembaruan yang lambat, bisa saja diaplikasi WhatsApp modifikasi yang terinstal diponsel kamu masih tersisa celah atau bug yang berbahaya.
+Maka karena pembaruan yang lambat, bisa saja diaplikasi WhatsApp modifikasi yang terinstal di ponsel kamu masih tersisa celah atau bug yang berbahaya.
 
 ## Selamat Tinggal Keamanan
 
-Ini memang sesuatu yang umum, WhatsApp modifikasi tidak mungkin menjamin adanya keamanan data, sekalipun ada secara tertulis maka itu hanya secara tertulis, tidak pada kenyataanya.
+Ini memang sesuatu yang umum, WhatsApp modifikasi tidak mungkin menjamin adanya keamanan data, sekalipun ada secara tertulis maka itu hanya secara tertulis, tidak pada kenyataannya.
 
-End-to-end encryption, adalah salah satu sistem keamanan dalam komunikasi dimana yang bisa membaca suatu pesan hanya pengirim dan penerimanya saja. Gampangnya ini seperti satu gembok dengan dua kunci yang berbeda dipengirim dan penerima dan ajaibnya keduanya sama-sama bekerja, namun kunci diluar itu tidak akan bisa membuka gembok tersebut.
+*End-to-end encryption*, adalah salah satu sistem keamanan dalam komunikasi dimana yang bisa membaca suatu pesan hanya pengirim dan penerimanya saja. Gampangnya ini seperti satu gembok dengan dua kunci yang berbeda dipengirim dan penerima dan ajaibnya keduanya sama-sama bekerja, namun kunci diluar itu tidak akan bisa membuka gembok tersebut.
 
-Tapi, apa jadinya kalau kunci tersebut bisa diambil oleh pihak yang memodifikasi WhatsApp dan menduplikasi kunci tersebut, mengambil semua gembok (pesan terenkripsi) yang ada diponsel kamu dan mendekripsi (membuka gembok tersebut) kemudian dapat membaca semua isi pesan kamu?
+Tapi, apa jadinya kalau kunci tersebut bisa diambil oleh pihak yang memodifikasi WhatsApp dan menduplikasi kunci tersebut, mengambil semua gembok (pesan terenkripsi) yang ada di ponsel kamu dan men-dekripsi (membuka gembok tersebut) kemudian dapat membaca semua isi pesan kamu?
 
-Ah ini bukan apa-apa, tidak ada yang spesial antara percakapan aku dengan teman-teman aku. Data is the new gold, data is the new oil, percakapan kamu adalah data, dan data itu dapat diperjualbelikan dengan harga yang fantastis.
+Ah ini bukan apa-apa, tidak ada yang spesial antara percakapan aku dengan teman-teman aku. *Data is the new gold*, *data is the new oil*, percakapan kamu adalah data, dan data itu dapat diperjualbelikan dengan harga yang fantastis.
 
 ## Ngomongin Privasi
 
-Sebetulnya poin diatas ini adalah bagian dari privasi, percakapan kita adalah privasi. Tapi mari kita bedah lagi, aku akan memberikan beberapa pertanyaan, bukankah saat pertama kali memasang WhatsApp aplikasi membutuhkan akses kontak? membutuhkan akses berkas? membutuhkan akses SMS? lokasi? kamera? microphone?
+Sebetulnya poin diatas ini adalah bagian dari privasi, percakapan kita adalah privasi. Tapi mari kita bedah lagi, aku akan memberikan beberapa pertanyaan, bukankah saat pertama kali memasang WhatsApp aplikasi membutuhkan akses kontak? membutuhkan akses berkas? membutuhkan akses SMS? lokasi? kamera? *microphone*?
 
-Tentu iya! aku tambahkan lagi, WhatsApp juga mengakses detail jaringan yang sedang dan atau sebelum-sebelumnya dipakai, pun mengakses bluetooth, NFC, dan fingerprint. Memang apa bahanya?
+Tentu iya! aku tambahkan lagi, WhatsApp juga mengakses detail jaringan yang sedang dan atau sebelum-sebelumnya dipakai, pun mengakses bluetooth, NFC, dan fingerprint. Memang apa bahayanya?
 
 Aku menukil dari teman yang sebelumnya aku singgung ("ex" pengembang aplikasi WhatsApp modifikasi) beliau mengatakan bahwa data itu semua disimpan ke server/peladen milik pemilik WhatsApp modifikasi itu.
 
-Apakah kamu sering membawa ponsel ke kamar mandi? mungkin hanya sekedar untuk buang hajat atau bahkan sambil mandi? menurut aku ini cukup aneh dan lucu, tapi faktanya diluaran sana banyak orang yang demikian. Semua itu dapat disalahgunakan tanpa meminta izin ke kamu.
+Apakah kamu sering membawa ponsel ke kamar mandi? mungkin hanya sekedar untuk buang hajat atau bahkan sambil mandi? menurut aku ini cukup aneh dan lucu, tapi faktanya di luaran sana banyak orang yang demikian. Semua itu dapat disalahgunakan tanpa meminta izin ke kamu.
 
 Oh satu lagi, bagaimana dengan akses SMS? kamu memiliki m-Banking? nomor telepon yang digunakan apakah sama dengan nomor WhatsApp yang terdaftar? atau, nomor yang digunakan ada dikontak ponsel kamu?
 
@@ -80,10 +80,8 @@ Mungkin kamu masih mau menyangkalnya, mudah saja, WhatsApp milik Meta secara res
 
 Sekarang mari kita tinjau untuk pengembang WhatsApp modifikasi, apa yang mereka dapat dari memodifikasi WhatsApp? apakah kamu sebagai pengguna memberikan uang ke mereka?
 
-Ah ada banyak iklan di halaman unduhannya, akupun menyanggah demikian saat diberitahu oleh teman aku, tapi, itu hanya untuk mengelabuhi, tidak banyak yang didapat dari iklan yang ditampilkan dihalaman unduhan.
+Ah ada banyak iklan di halaman unduhannya, aku pun menyanggah demikian saat diberitahu oleh teman aku, tapi, itu hanya untuk mengelabuhi, tidak banyak yang didapat dari iklan yang ditampilkan di halaman unduhan.
 
-Jadi? dari mana mereka mendapatkan uang? bahkan mereka berani membayar pengembang dari luar untuk mengembangkannya? tentu dari data yang mereka jual, darimana datanya? dari kita penggunanya.
-
-Masih kurang ya? aku saranin kamu coba nonton film Unlocked (2023) di Netflix, bagaimana kalau mereka pihak WhatsApp modifikasi adalah seorang psikopat yang memantau kita sebagai penggunanya untuk mengetahui semua aktivitas kita dan pada waktu yang tepat mereka membunuh kita? ini terlalu jauh sih, tapi, Naudzubillah.
+Jadi? dari mana mereka mendapatkan uang? bahkan mereka berani membayar pengembang dari luar untuk mengembangkannya? tentu dari data yang mereka jual, dari mana datanya? dari kita penggunanya.
 
 Semoga mudah dipahami dan semoga kita semua selalu mendapatkan hidayah dari-Nya, segera jemput itu.
