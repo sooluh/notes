@@ -55,7 +55,7 @@ Wait for about a minute and then delete the Cron Job to prevent it from running 
 
 ## Migration (Fresh)
 
-Before migrating, make sure the `.env` file is configured manually using the file manager. You can create the database first in CPanel and then set up your `.env` file accordingly.
+Before migrating, make sure the `.env` file is configured manually using the File Manager. You can create the database first in CPanel and then set up your `.env` file accordingly.
 
 Then, create a new Cron Job with the same Common Settings and use the following command.
 
