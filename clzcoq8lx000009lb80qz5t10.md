@@ -3,6 +3,7 @@ title: "Deploying a Laravel App on Shared Hosting with CPanel"
 datePublished: Fri Aug 02 2024 12:32:36 GMT+0000 (Coordinated Universal Time)
 cuid: clzcoq8lx000009lb80qz5t10
 slug: deploy-laravel-cpanel-shared-hosting
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722604483649/aee32a49-a1e6-4498-9cac-2d6f5aae5b92.jpeg
 tags: laravel, cpanel
 
 ---
