@@ -3,7 +3,7 @@ title: "How I Handled Secure Session Management in Adonis 5"
 datePublished: Mon Aug 14 2023 05:36:20 GMT+0000 (Coordinated Universal Time)
 cuid: cllafzcs6000108jx8pla49fb
 slug: session-management-adonis-5
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704618256003/47b94b4e-02b7-41d3-961b-6ec25ae90112.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747102868319/26b8436b-8b77-48e8-8bc7-18d7d0b292f7.jpeg
 tags: adonisjs, session
 
 ---
