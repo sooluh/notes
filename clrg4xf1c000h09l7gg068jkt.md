@@ -3,7 +3,7 @@ title: "90 Menit"
 datePublished: Tue Jan 16 2024 09:11:45 GMT+0000 (Coordinated Universal Time)
 cuid: clrg4xf1c000h09l7gg068jkt
 slug: 90-menit
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705736422905/7edc83b3-a278-4f78-80b2-5bdb86865d02.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747102962389/09f339fa-02af-46c1-9d5a-0806081ec223.jpeg
 tags: refleksi, dakwah
 
 ---
