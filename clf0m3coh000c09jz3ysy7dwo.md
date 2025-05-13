@@ -3,7 +3,7 @@ title: "Minifying HTML Output in AdonisJS"
 datePublished: Thu Mar 09 2023 04:31:29 GMT+0000 (Coordinated Universal Time)
 cuid: clf0m3coh000c09jz3ysy7dwo
 slug: minifying-html-output-in-adonisjs
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704616581212/46738963-4420-4cc2-bb75-e634fbdd3d19.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747102737881/0e621fd4-3b07-4657-8cc4-ab136060a6f0.jpeg
 tags: adonisjs, middleware
 
 ---
