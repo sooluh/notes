@@ -3,7 +3,7 @@ title: "Create My Own MessageFormat"
 datePublished: Fri Mar 17 2023 02:37:42 GMT+0000 (Coordinated Universal Time)
 cuid: clfbxjun600010al1botwgnay
 slug: create-my-own-messageformat
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704616881006/ef8aeb2f-4484-4cd6-96f9-fcb371b87cc5.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747102817976/9fa8341a-01bb-45d4-9590-a36e9f715789.jpeg
 tags: javascript, regex
 
 ---
