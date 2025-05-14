@@ -4,6 +4,7 @@ datePublished: Sat Jan 20 2024 07:24:43 GMT+0000 (Coordinated Universal Time)
 cuid: clrlqv6hf000109jwhk8t0a68
 slug: profile-page-filament-3
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747189465632/fff004c9-6f95-4843-8dde-22a93d19cfda.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1747192709828/6d248a38-eaff-4fd1-9e0b-e3f98b3dda96.png
 tags: laravel, filamentphp
 
 ---
