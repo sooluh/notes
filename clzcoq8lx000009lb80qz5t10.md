@@ -4,6 +4,7 @@ datePublished: Fri Aug 02 2024 12:32:36 GMT+0000 (Coordinated Universal Time)
 cuid: clzcoq8lx000009lb80qz5t10
 slug: deploy-laravel-cpanel-shared-hosting
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747189082104/78de42ae-2759-42cb-8b47-173a4127732e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1747192296236/39dc30b9-132a-46c9-95c0-3b8cb9112ce2.png
 tags: laravel, cpanel
 
 ---
