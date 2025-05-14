@@ -4,6 +4,7 @@ datePublished: Tue May 13 2025 18:04:55 GMT+0000 (Coordinated Universal Time)
 cuid: cmamtnicr000509jr473c5h9b
 slug: rumah-di-surga
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747159330460/ba851aa8-c2e4-43fd-9fb1-7126e32f7022.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1747192158672/f3e982b4-88d9-46b0-b5f9-3ba6c34813c5.png
 tags: refleksi, dakwah
 
 ---
