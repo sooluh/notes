@@ -3,7 +3,7 @@ title: "Customizing User Profile and Password Change Pages in Filament 3"
 datePublished: Sat Jan 20 2024 07:24:43 GMT+0000 (Coordinated Universal Time)
 cuid: clrlqv6hf000109jwhk8t0a68
 slug: profile-page-filament-3
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747103001613/0b9c42dd-3557-440c-a615-3fb06d7ff00f.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747189465632/fff004c9-6f95-4843-8dde-22a93d19cfda.png
 tags: laravel, filamentphp
 
 ---
