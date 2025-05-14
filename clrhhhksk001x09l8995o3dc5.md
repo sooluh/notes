@@ -3,7 +3,7 @@ title: "Ya Allah, Ajari Aku Cinta"
 datePublished: Wed Jan 17 2024 07:51:07 GMT+0000 (Coordinated Universal Time)
 cuid: clrhhhksk001x09l8995o3dc5
 slug: ya-allah-ajari-aku-cinta
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747102980297/d30b1ae3-b0fd-45d3-a32a-ab4b3b603ad2.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747190354436/4be07a4a-70e6-444e-8f0a-442beebf6c61.png
 tags: refleksi, dakwah
 
 ---
