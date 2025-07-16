@@ -3,6 +3,7 @@ title: "Konser Bukan Ancaman Keimanan?"
 datePublished: Wed Jul 16 2025 06:54:09 GMT+0000 (Coordinated Universal Time)
 cuid: cmd5lvf7r002b02jud1e556cq
 slug: konser-bukan-ancaman-keimanan
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1752649173584/e44e6855-db61-4bff-af0f-636ed6d55e58.png
 tags: refleksi, dakwah
 
 ---
